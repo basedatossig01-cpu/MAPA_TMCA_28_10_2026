@@ -1,0 +1,1653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.schema">
+      <SimpleField name="CÈdula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="N" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="CÈdula_Ti" type="string"/>
+      <SimpleField name="SituaciÛn" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="TelÈfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_de_p" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Cantidad_d" type="double"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
+    </Schema>
+    <Document id="Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N">
+      <name>Distrito_GENERAL FRANCISCO ISIDORO RESQU√çN</name>
+      <Placemark id="Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.schema">
+            <SimpleData name="CÈdula">5938206.00000000000</SimpleData>
+            <SimpleData name="cedula">5938206</SimpleData>
+            <SimpleData name="N">90.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">JUANA ELIZABETH BRITEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GENERAL FRANCISCO ISIDORO RESQU?N</SimpleData>
+            <SimpleData name="Localidad">SAN JOS? DEL NORTE</SimpleData>
+            <SimpleData name="TelÈfono">0984579011</SimpleData>
+            <SimpleData name="Vivienda_L">-24.09609340000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.21045800000</SimpleData>
+            <SimpleData name="Parcela_La">-24.08579332000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.22543036000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">90</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2225266996946,-24.085719999908,0
+                -56.2283225996096,-24.0860024003331,0
+                -56.2283518003595,-24.0858671002333,0
+                -56.2225049999629,-24.0855832997405,0
+                -56.2225266996946,-24.085719999908,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.schema">
+            <SimpleData name="CÈdula">6753737.00000000000</SimpleData>
+            <SimpleData name="cedula">6753737</SimpleData>
+            <SimpleData name="N">83.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MERCEDES GARCETE BENITEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GENERAL FRANCISCO ISIDORO RESQU?N</SimpleData>
+            <SimpleData name="Localidad">TAPYI KUE - ISLA ALTA</SimpleData>
+            <SimpleData name="TelÈfono">0983085019</SimpleData>
+            <SimpleData name="Vivienda_L">-23.93421130000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.26097820000</SimpleData>
+            <SimpleData name="Parcela_La">-23.93373419000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.26360845000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">83</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2628753600808,-23.9336758797678,0
+                -56.2639465600687,-23.9343233801606,0
+                -56.264360560306,-23.9337962800158,0
+                -56.2639260600619,-23.933520279832,0
+                -56.2631793603716,-23.9331600804672,0
+                -56.2628753600808,-23.9336758797678,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.schema">
+            <SimpleData name="CÈdula">7166204.00000000000</SimpleData>
+            <SimpleData name="cedula">7166204</SimpleData>
+            <SimpleData name="N">80.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">DAMIAN GALEANO BENITEZ</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GENERAL FRANCISCO ISIDORO RESQU?N</SimpleData>
+            <SimpleData name="Localidad">TAHEKYI - SAN LUIS</SimpleData>
+            <SimpleData name="TelÈfono">0982794522</SimpleData>
+            <SimpleData name="Vivienda_L">-23.96661580000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.26379100000</SimpleData>
+            <SimpleData name="Parcela_La">-23.95757369000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.26615219000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">80</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2656468971862,-23.9572716667771,0
+                -56.2656863988374,-23.9579975819129,0
+                -56.2666577002591,-23.9579051032971,0
+                -56.2665900988184,-23.9571176953671,0
+                -56.2656468971862,-23.9572716667771,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.schema">
+            <SimpleData name="CÈdula">4180641.00000000000</SimpleData>
+            <SimpleData name="cedula">4180641</SimpleData>
+            <SimpleData name="N">74.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ERMELINDA DOMINGUEZ MONTIEL</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 3</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GENERAL FRANCISCO ISIDORO RESQU?N</SimpleData>
+            <SimpleData name="Localidad">AVARIJU- SANTA CAROLINA</SimpleData>
+            <SimpleData name="TelÈfono">0986190245</SimpleData>
+            <SimpleData name="Vivienda_L">-24.12213410000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.28877430000</SimpleData>
+            <SimpleData name="Parcela_La">-24.12089698000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.28185257000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">74</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2819224333873,-24.1206121114565,0
+                -56.2817541283695,-24.1207203423605,0
+                -56.281592020814,-24.1208176061623,0
+                -56.2814442167641,-24.1209110570672,0
+                -56.2812755002459,-24.1210227003629,0
+                -56.2811189003137,-24.1211548996677,0
+                -56.2809585999498,-24.1212606998817,0
+                -56.2808157000633,-24.1213933002318,0
+                -56.2806798002964,-24.1215003999784,0
+                -56.2806102996389,-24.1216031998595,0
+                -56.2807291999198,-24.1217762005185,0
+                -56.2808139995138,-24.121869900547,0
+                -56.2809656004527,-24.1216989999406,0
+                -56.2811070000721,-24.1215764003894,0
+                -56.2812802013021,-24.1214088227047,0
+                -56.2814804519109,-24.1213039290036,0
+                -56.2816368385575,-24.1212028505527,0
+                -56.2819521998263,-24.1209743003283,0
+                -56.2819891003095,-24.1208688998867,0
+                -56.2822811999174,-24.120809599682,0
+                -56.2825320004663,-24.1207365998802,0
+                -56.2826599998671,-24.1206566999466,0
+                -56.2826600002923,-24.1206568002001,0
+                -56.2826600997803,-24.1206589005309,0
+                -56.2827289003566,-24.1205971001643,0
+                -56.2829591995449,-24.1204413003595,0
+                -56.283098299864,-24.1203326998256,0
+                -56.2831052004468,-24.1202632000771,0
+                -56.2830292995236,-24.120176800006,0
+                -56.2830292000436,-24.120155799998,0
+                -56.2829014001929,-24.1200268004283,0
+                -56.2827696004711,-24.1201545000253,0
+                -56.2825777001273,-24.1202679000898,0
+                -56.2824348997769,-24.1203835003709,0
+                -56.2822514162722,-24.1204085231038,0
+                -56.2820936001984,-24.1205062646236,0
+                -56.2819224333873,-24.1206121114565,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.schema">
+            <SimpleData name="CÈdula">5037144.00000000000</SimpleData>
+            <SimpleData name="cedula">5037144</SimpleData>
+            <SimpleData name="N">91.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">FIDELINA VALENZUELA MEDINA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GENERAL FRANCISCO ISIDORO RESQU?N</SimpleData>
+            <SimpleData name="Localidad">SAN MIGUEL</SimpleData>
+            <SimpleData name="TelÈfono">0981724005</SimpleData>
+            <SimpleData name="Vivienda_L">-23.97466080000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.29383680000</SimpleData>
+            <SimpleData name="Parcela_La">-23.97357079000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.29602380000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">91</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.295212900461,-23.9736225001037,0
+                -56.2953739004673,-23.9738767005035,0
+                -56.2956324000704,-23.9737850000133,0
+                -56.2958649999461,-23.973676699806,0
+                -56.2960151000455,-23.9738335005504,0
+                -56.296168599984,-23.9740462998213,0
+                -56.2964229995486,-23.973928000235,0
+                -56.2966634998385,-23.9738302002504,0
+                -56.2967566999652,-23.973603500493,0
+                -56.2966698003715,-23.9734342001186,0
+                -56.2964411997065,-23.9734289000083,0
+                -56.296320199736,-23.9733849001507,0
+                -56.2962771996401,-23.9732747003285,0
+                -56.2961497002884,-23.9730559997778,0
+                -56.2958536995552,-23.9731789003725,0
+                -56.2956304998458,-23.9733228997077,0
+                -56.2953705997694,-23.9734450997932,0
+                -56.295212900461,-23.9736225001037,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.schema">
+            <SimpleData name="CÈdula">6202868.00000000000</SimpleData>
+            <SimpleData name="cedula">6202868</SimpleData>
+            <SimpleData name="N">68.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ESTEBAN JOSE ALEGRE FLEITAS</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GENERAL FRANCISCO ISIDORO RESQU?N</SimpleData>
+            <SimpleData name="Localidad">KO??  POTY</SimpleData>
+            <SimpleData name="TelÈfono">0985672097</SimpleData>
+            <SimpleData name="Vivienda_L">-23.93112860000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.29452200000</SimpleData>
+            <SimpleData name="Parcela_La">-23.93250661000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.29121551000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">68</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.2912903554973,-23.9331813176152,0
+                  -56.2915498553033,-23.932909117804,0
+                  -56.2911205547677,-23.9326809176001,0
+                  -56.291071954917,-23.9327341179693,0
+                  -56.2905304552371,-23.9324521174469,0
+                  -56.2903835552428,-23.9326274175256,0
+                  -56.2912903554973,-23.9331813176152,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.2915375548553,-23.9328812175455,0
+                  -56.2918091551066,-23.9326114177386,0
+                  -56.2908343551473,-23.9321053171062,0
+                  -56.2906286547778,-23.9323825176122,0
+                  -56.2915375548553,-23.9328812175455,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.schema">
+            <SimpleData name="CÈdula">8130211.00000000000</SimpleData>
+            <SimpleData name="cedula">8130211</SimpleData>
+            <SimpleData name="N">84.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LIBRADA RECALDE TORRES</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GENERAL FRANCISCO ISIDORO RESQU?N</SimpleData>
+            <SimpleData name="Localidad">TAPYI KUE - ISLA ALTA</SimpleData>
+            <SimpleData name="TelÈfono">ND</SimpleData>
+            <SimpleData name="Vivienda_L">-23.93426710000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.26099350000</SimpleData>
+            <SimpleData name="Parcela_La">-23.92954404000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.26135415000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">84</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.261078859873,-23.9291685670276,0
+                -56.2610034598115,-23.9291924667415,0
+                -56.2609370604546,-23.9291750663499,0
+                -56.2609218599663,-23.9291755667664,0
+                -56.2608838604138,-23.9292140665701,0
+                -56.260836159791,-23.9292594670101,0
+                -56.2608101598546,-23.9292937668929,0
+                -56.2607681604279,-23.9293551666819,0
+                -56.2607411600765,-23.929429866683,0
+                -56.2607345601699,-23.9294548667413,0
+                -56.2607189601434,-23.9294963662612,0
+                -56.2607198605657,-23.9295430662288,0
+                -56.2607290598173,-23.9295609664788,0
+                -56.2607600597743,-23.9295838668757,0
+                -56.2608226599016,-23.9296141664421,0
+                -56.2608540599052,-23.9296375664004,0
+                -56.2609120597594,-23.9296928665805,0
+                -56.2609641602086,-23.9297298669076,0
+                -56.2609947599248,-23.9297362668287,0
+                -56.2610786604547,-23.929761266771,0
+                -56.2611555597288,-23.9297999668568,0
+                -56.2611912599635,-23.9298229665389,0
+                -56.2612642599146,-23.9298698668196,0
+                -56.26133636029,-23.9299054665903,0
+                -56.2613662601484,-23.9299217665127,0
+                -56.2614395604258,-23.9299559666455,0
+                -56.2615242603492,-23.9299881667794,0
+                -56.2615504604992,-23.9300200667854,0
+                -56.2616163603169,-23.9300576669927,0
+                -56.2616498601307,-23.9300610667877,0
+                -56.2616495597561,-23.93005496703,0
+                -56.2616875596647,-23.9300744669635,0
+                -56.2617354597125,-23.9300926668983,0
+                -56.2617748602704,-23.9300982662757,0
+                -56.2618163598823,-23.9300628665482,0
+                -56.2618169597333,-23.929996767023,0
+                -56.2618154603535,-23.9299623664816,0
+                -56.2618244602674,-23.9298957662992,0
+                -56.2618102601705,-23.9298241666225,0
+                -56.2618053605299,-23.929794866297,0
+                -56.2617970600447,-23.9297313667367,0
+                -56.2618016603363,-23.9296845667478,0
+                -56.2618163596275,-23.9296740664669,0
+                -56.2618248601272,-23.9296484667413,0
+                -56.2618301598391,-23.9296139669943,0
+                -56.2618293602641,-23.929594566321,0
+                -56.2618305599738,-23.929569166352,0
+                -56.2618348597033,-23.9295304664996,0
+                -56.261836060316,-23.9294981670933,0
+                -56.2618401598795,-23.9294514667562,0
+                -56.2618155602916,-23.9294012668969,0
+                -56.2618146596941,-23.9293752670573,0
+                -56.2618241599859,-23.9293343667349,0
+                -56.2618132598837,-23.9292806669025,0
+                -56.2617928605543,-23.929272866533,0
+                -56.261752159818,-23.929265966652,0
+                -56.261696759645,-23.9292310669015,0
+                -56.261669960009,-23.9292140666163,0
+                -56.2616149598799,-23.9292012670226,0
+                -56.2615591601616,-23.9291989667226,0
+                -56.2615279596224,-23.9292021667065,0
+                -56.2614612597667,-23.9291812670548,0
+                -56.2614117602365,-23.9291335667017,0
+                -56.2613915599554,-23.9291111663242,0
+                -56.261349560528,-23.9290824671097,0
+                -56.2612918603331,-23.9290943665076,0
+                -56.2612592599217,-23.9291142668508,0
+                -56.2612021599975,-23.929134466674,0
+                -56.2611191605634,-23.929157866575,0
+                -56.261078859873,-23.9291685670276,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.schema">
+            <SimpleData name="CÈdula">6883582.00000000000</SimpleData>
+            <SimpleData name="cedula">6883582</SimpleData>
+            <SimpleData name="N">75.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LORENZA ALEGRE</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GENERAL FRANCISCO ISIDORO RESQU?N</SimpleData>
+            <SimpleData name="Localidad">AVARIJU- SANTA CAROLINA</SimpleData>
+            <SimpleData name="TelÈfono">0986186326</SimpleData>
+            <SimpleData name="Vivienda_L">-24.12456080000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.28534910000</SimpleData>
+            <SimpleData name="Parcela_La">-24.12424288000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.28426644000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">75</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2838232501828,-24.1246540996843,0
+                -56.2843146501249,-24.1247096998956,0
+                -56.2845805504071,-24.1246268996407,0
+                -56.2848673499123,-24.1240033000003,0
+                -56.2841482504424,-24.1236486003277,0
+                -56.2841138495414,-24.1236560004067,0
+                -56.283967449622,-24.123997800467,0
+                -56.2838078503663,-24.12428959966,0
+                -56.283629150437,-24.124604199836,0
+                -56.2838232501828,-24.1246540996843,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.schema">
+            <SimpleData name="CÈdula">6847399.00000000000</SimpleData>
+            <SimpleData name="cedula">6847399</SimpleData>
+            <SimpleData name="N">87.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARCELINA BENITEZ CA?ETE</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GENERAL FRANCISCO ISIDORO RESQU?N</SimpleData>
+            <SimpleData name="Localidad">TAPYI KUE - ISLA ALTA</SimpleData>
+            <SimpleData name="TelÈfono">0984507902</SimpleData>
+            <SimpleData name="Vivienda_L">-23.93420320000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.26086220000</SimpleData>
+            <SimpleData name="Parcela_La">-23.92871998000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.25791493000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">87</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2573962469178,-23.9282489404072,0
+                -56.2573570466751,-23.928296239589,0
+                -56.2573359467092,-23.9283158397186,0
+                -56.2572970465485,-23.9283589396161,0
+                -56.2572593472086,-23.9284140396166,0
+                -56.257239547064,-23.9284398400637,0
+                -56.2572521469973,-23.9284978403431,0
+                -56.2573070469161,-23.9285419400073,0
+                -56.2573374468825,-23.9285572396778,0
+                -56.2573896470721,-23.9285832399671,0
+                -56.257413546996,-23.928594639866,0
+                -56.2574196465309,-23.9285950396469,0
+                -56.2574676463517,-23.9286184401137,0
+                -56.2575215470272,-23.9286565404294,0
+                -56.2575530467236,-23.9286783401819,0
+                -56.2576090466206,-23.9287141402601,0
+                -56.2576690464807,-23.9287446398754,0
+                -56.2576997466687,-23.9287624400415,0
+                -56.2577664467964,-23.9287984398727,0
+                -56.2578233466661,-23.928854040252,0
+                -56.2578502464357,-23.9288869395611,0
+                -56.2578503468147,-23.9288867404417,0
+                -56.2578506468261,-23.9288863399729,0
+                -56.2578587464582,-23.9288787399427,0
+                -56.2578532471848,-23.9289041398762,0
+                -56.2578342463703,-23.9289324397624,0
+                -56.2577979465819,-23.9289859398837,0
+                -56.2577575465474,-23.9290356403575,0
+                -56.2577398469393,-23.9290623397479,0
+                -56.2577077463519,-23.9291241396342,0
+                -56.2576699470891,-23.9291647404026,0
+                -56.2576609469644,-23.9291832402357,0
+                -56.2577033464896,-23.9292186404022,0
+                -56.2577502464052,-23.9292459399441,0
+                -56.2577761466341,-23.929258439596,0
+                -56.2578430465648,-23.9292937403931,0
+                -56.2579207466994,-23.9293234402766,0
+                -56.2579608462949,-23.9293402398938,0
+                -56.2580227464497,-23.9293522395622,0
+                -56.2580963466297,-23.9293619401847,0
+                -56.2581433471113,-23.9293687395789,0
+                -56.2582300471335,-23.9293643396162,0
+                -56.2582740471646,-23.9293688403298,0
+                -56.2582889468943,-23.9293709398999,0
+                -56.2583010466846,-23.9293571398157,0
+                -56.258326146362,-23.929362039718,0
+                -56.2583548469924,-23.9293346400968,0
+                -56.258368546984,-23.9293078400451,0
+                -56.2583742468678,-23.9292366395945,0
+                -56.2583629468906,-23.9291699398649,0
+                -56.2583476468211,-23.9291364400109,0
+                -56.2583039470163,-23.9290754401603,0
+                -56.2582699468367,-23.9290107397971,0
+                -56.2582588466444,-23.9289787396251,0
+                -56.2582633464213,-23.92891603959,0
+                -56.2582959463257,-23.9288622397022,0
+                -56.2583064463215,-23.9288264402168,0
+                -56.258316946852,-23.9287549395939,0
+                -56.2583519470063,-23.9286822403663,0
+                -56.2583634465109,-23.928646740138,0
+                -56.2583824471084,-23.9285785401288,0
+                -56.2584204463434,-23.9285140400283,0
+                -56.258415446426,-23.9284907398906,0
+                -56.2583649463005,-23.9284550398033,0
+                -56.2583294468525,-23.9283958398441,0
+                -56.2583062466096,-23.928370139705,0
+                -56.2582323471653,-23.9283673398963,0
+                -56.2581537465281,-23.9283302396387,0
+                -56.2581211470332,-23.9283069399257,0
+                -56.2580411467805,-23.9282931395717,0
+                -56.2579738467484,-23.9282782399072,0
+                -56.2579362467705,-23.9282974398171,0
+                -56.2578565464279,-23.9282705401018,0
+                -56.2577775462888,-23.9282435398613,0
+                -56.2577415470086,-23.9282314403162,0
+                -56.2577231469653,-23.9282275399957,0
+                -56.2577208470726,-23.9282216401137,0
+                -56.2576911468216,-23.9282123401512,0
+                -56.2576345467034,-23.9281839397177,0
+                -56.2575695462546,-23.9281571397692,0
+                -56.2575309463746,-23.9281441397796,0
+                -56.2574765471719,-23.9281317399281,0
+                -56.2574439464638,-23.9281662403612,0
+                -56.2574241470909,-23.9281948398115,0
+                -56.2573962469178,-23.9282489404072,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.schema">
+            <SimpleData name="CÈdula">6584642.00000000000</SimpleData>
+            <SimpleData name="cedula">6584642</SimpleData>
+            <SimpleData name="N">86.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">SANTA LIDIA BENITEZ ARCE</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GENERAL FRANCISCO ISIDORO RESQU?N</SimpleData>
+            <SimpleData name="Localidad">TAPYI KUE - ISLA ALTA</SimpleData>
+            <SimpleData name="TelÈfono">ND</SimpleData>
+            <SimpleData name="Vivienda_L">-23.93428940000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.26084580000</SimpleData>
+            <SimpleData name="Parcela_La">-23.93066529000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.25702297000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">86</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2572822731413,-23.9311331849907,0
+                -56.257240473462,-23.9312777798603,0
+                -56.2573656734833,-23.9314383798261,0
+                -56.2574739729248,-23.9312378802687,0
+                -56.2573266151563,-23.9311422424041,0
+                -56.2574212732933,-23.9311615800751,0
+                -56.2576680736071,-23.9304884802894,0
+                -56.256195073276,-23.9301823802516,0
+                -56.2561210730164,-23.9304636804636,0
+                -56.2569085735264,-23.9306168803533,0
+                -56.2568798731438,-23.9310509796642,0
+                -56.2572822731413,-23.9311331849907,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.schema">
+            <SimpleData name="CÈdula">8059088.00000000000</SimpleData>
+            <SimpleData name="cedula">8059088</SimpleData>
+            <SimpleData name="N">85.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ALICIA TORRES ROJAS</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GENERAL FRANCISCO ISIDORO RESQU?N</SimpleData>
+            <SimpleData name="Localidad">TAPYI KUE - ISLA ALTA</SimpleData>
+            <SimpleData name="TelÈfono">ND</SimpleData>
+            <SimpleData name="Vivienda_L">-23.93419160000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.26093050000</SimpleData>
+            <SimpleData name="Parcela_La">-23.92183800000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.26377840000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">85</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2638148036528,-23.9227446719789,0
+                -56.2638380037661,-23.9227544715926,0
+                -56.2638807041547,-23.922737772047,0
+                -56.2639286038401,-23.9227051714829,0
+                -56.2639319037191,-23.9226660720397,0
+                -56.2638888043704,-23.9226236714191,0
+                -56.2638195036591,-23.9225755717218,0
+                -56.2637565038034,-23.92253877215,0
+                -56.2636936035619,-23.9225060716952,0
+                -56.263632304485,-23.9224576715518,0
+                -56.263578503744,-23.9224292713682,0
+                -56.2635984037272,-23.9223757715644,0
+                -56.2636385041951,-23.9223292715984,0
+                -56.2636913041791,-23.922279771556,0
+                -56.2637071044237,-23.9222516714068,0
+                -56.2637329037516,-23.922192572081,0
+                -56.2637598045192,-23.9221301714562,0
+                -56.2637952043415,-23.9220824720755,0
+                -56.2638174036538,-23.9220564717663,0
+                -56.2638476038185,-23.9220231713739,0
+                -56.2638674041084,-23.9220012717801,0
+                -56.2639008040864,-23.9219728720432,0
+                -56.2639449043425,-23.9219476720526,0
+                -56.263999804389,-23.9219122716804,0
+                -56.2640348044128,-23.92188707144,0
+                -56.2640808039332,-23.9218519716312,0
+                -56.2641223037745,-23.9218131715819,0
+                -56.2641576041021,-23.9217524720548,0
+                -56.2641823039156,-23.9217080712757,0
+                -56.2642076035604,-23.921670171799,0
+                -56.2642490039432,-23.9216171713193,0
+                -56.2642716038754,-23.9215814717179,0
+                -56.2643010045311,-23.9215409717064,0
+                -56.2643427043647,-23.9214992715111,0
+                -56.2643718044054,-23.9214514713858,0
+                -56.2643907038332,-23.9214121720119,0
+                -56.2644113040358,-23.921363671872,0
+                -56.2643558041387,-23.9213367721541,0
+                -56.26430280378,-23.9213105717061,0
+                -56.2642346035999,-23.9212793715932,0
+                -56.2641764038479,-23.9212569721171,0
+                -56.2641400041991,-23.9212465719695,0
+                -56.2640721042309,-23.9212199713516,0
+                -56.2640154041141,-23.9211874714216,0
+                -56.2639635043063,-23.9211827719962,0
+                -56.263887403825,-23.9212146721407,0
+                -56.2638226036709,-23.9212428718185,0
+                -56.2637554040457,-23.9212679719763,0
+                -56.2635814036598,-23.9215022715926,0
+                -56.2635642037534,-23.9215616713162,0
+                -56.2635241035917,-23.9216417716585,0
+                -56.2634974042441,-23.9216840718677,0
+                -56.2634683037259,-23.921746271336,0
+                -56.2634400040612,-23.9218186716233,0
+                -56.2634397653438,-23.9218417080849,0
+                -56.2634397178013,-23.9218504380682,0
+                -56.2634319035773,-23.9218698715395,0
+                -56.2634124036395,-23.9219257721086,0
+                -56.2633876045146,-23.9219711721094,0
+                -56.2633706044023,-23.9220169716611,0
+                -56.2633155044357,-23.9220934712975,0
+                -56.2632901044871,-23.9221219715684,0
+                -56.2632519040437,-23.9221828719408,0
+                -56.2632885037932,-23.9222120713021,0
+                -56.2633372043599,-23.9222497716489,0
+                -56.2632990040714,-23.9223149721082,0
+                -56.2632625039675,-23.922365372044,0
+                -56.2632968044867,-23.9224044719623,0
+                -56.2634084040608,-23.9224809721216,0
+                -56.2634616042794,-23.9225199720046,0
+                -56.2635187041817,-23.9225570712822,0
+                -56.2635878038794,-23.9226005720221,0
+                -56.263633704175,-23.9226204714861,0
+                -56.2637022036173,-23.9226639720095,0
+                -56.2637658036586,-23.9227016713439,0
+                -56.2638148036528,-23.9227446719789,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.schema">
+            <SimpleData name="CÈdula">6762651.00000000000</SimpleData>
+            <SimpleData name="cedula">6762651</SimpleData>
+            <SimpleData name="N">79.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ALEJANDRA ESPINOLA GARCETE</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GENERAL FRANCISCO ISIDORO RESQU?N</SimpleData>
+            <SimpleData name="Localidad">TAHEKYI - SAN LUIS</SimpleData>
+            <SimpleData name="TelÈfono">0986942725</SimpleData>
+            <SimpleData name="Vivienda_L">-23.96649470000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.26356030000</SimpleData>
+            <SimpleData name="Parcela_La">-23.96199474000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.26350443000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">79</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2633469003534,-23.9624492001688,0
+                -56.2636481003748,-23.9625438998084,0
+                -56.2637190000136,-23.9624872002731,0
+                -56.2642571996306,-23.9618318001609,0
+                -56.2633509002573,-23.9614625001445,0
+                -56.2631996997721,-23.9615123003776,0
+                -56.2630986001377,-23.9616397003899,0
+                -56.2628643996381,-23.9621053002449,0
+                -56.2628855999083,-23.9621842002317,0
+                -56.2631768998842,-23.9623778005375,0
+                -56.2633469003534,-23.9624492001688,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.13">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.schema">
+            <SimpleData name="CÈdula">6857362.00000000000</SimpleData>
+            <SimpleData name="cedula">6857362</SimpleData>
+            <SimpleData name="N">77.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">RAQUEL BENITEZ CA?ETE</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GENERAL FRANCISCO ISIDORO RESQU?N</SimpleData>
+            <SimpleData name="Localidad">NARANJITO - SANTA LUCIA</SimpleData>
+            <SimpleData name="TelÈfono">0984548987</SimpleData>
+            <SimpleData name="Vivienda_L">-23.99375670000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.31189010000</SimpleData>
+            <SimpleData name="Parcela_La">-23.99092499000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.31899491000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">77</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.3187932997906,-23.9913602003532,0
+                -56.3188218995016,-23.9913846005244,0
+                -56.3191229004399,-23.9913181998897,0
+                -56.319498200281,-23.9911920998267,0
+                -56.3196660001346,-23.9910929996507,0
+                -56.3194600996367,-23.9907372998813,0
+                -56.3192853999964,-23.9904606000915,0
+                -56.3189411996004,-23.9905713002564,0
+                -56.3186112003031,-23.9906300003274,0
+                -56.3182310996709,-23.9907403000349,0
+                -56.3187932997906,-23.9913602003532,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.14">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.schema">
+            <SimpleData name="CÈdula">6575320.00000000000</SimpleData>
+            <SimpleData name="cedula">6575320</SimpleData>
+            <SimpleData name="N">82.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">TERESA RECALDE TORRES</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GENERAL FRANCISCO ISIDORO RESQU?N</SimpleData>
+            <SimpleData name="Localidad">TAPYI KUE - ISLA ALTA</SimpleData>
+            <SimpleData name="TelÈfono">ND</SimpleData>
+            <SimpleData name="Vivienda_L">-23.93413270000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.26116580000</SimpleData>
+            <SimpleData name="Parcela_La">-23.92845997000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.26118146000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">82</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2611006923244,-23.9288746324417,0
+                -56.2612809177306,-23.9290528413895,0
+                -56.2615836358661,-23.9287201299549,0
+                -56.261802391774,-23.928478372799,0
+                -56.2618697742492,-23.9284054146197,0
+                -56.2618215461701,-23.9283812439989,0
+                -56.2614462521996,-23.9282050291391,0
+                -56.2611472964231,-23.9280633786807,0
+                -56.261075116233,-23.9280454438758,0
+                -56.2608399972339,-23.9279871531882,0
+                -56.2607458957484,-23.9280853872118,0
+                -56.2606242493471,-23.9282140226726,0
+                -56.2605296145786,-23.9283124987521,0
+                -56.2611006923244,-23.9288746324417,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.15">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.schema">
+            <SimpleData name="CÈdula">2239065.00000000000</SimpleData>
+            <SimpleData name="cedula">2239065</SimpleData>
+            <SimpleData name="N">71.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">DIONICIO OCAMPOS TORRES</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GENERAL FRANCISCO ISIDORO RESQU?N</SimpleData>
+            <SimpleData name="Localidad">NARANJAY</SimpleData>
+            <SimpleData name="TelÈfono">0986239631</SimpleData>
+            <SimpleData name="Vivienda_L">-23.95555110000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.36820950000</SimpleData>
+            <SimpleData name="Parcela_La">-23.94944797000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.35622481000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">71</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.3558679998508,-23.9487760002653,0
+                -56.3557217000253,-23.9490599999873,0
+                -56.355716599982,-23.9490612999676,0
+                -56.3558137995404,-23.9493839003979,0
+                -56.3559738996267,-23.9496893003556,0
+                -56.3560559000617,-23.9497869997365,0
+                -56.3565544997819,-23.9501791999562,0
+                -56.3567653997853,-23.9501184999353,0
+                -56.3568082996379,-23.950073399679,0
+                -56.3565862004293,-23.9496334003071,0
+                -56.3563129003429,-23.9488408997074,0
+                -56.3560864999019,-23.9489109996565,0
+                -56.3559645998877,-23.9486802005365,0
+                -56.3558679998508,-23.9487760002653,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.16">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.schema">
+            <SimpleData name="CÈdula">8339251.00000000000</SimpleData>
+            <SimpleData name="cedula">8339251</SimpleData>
+            <SimpleData name="N">76.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CECILIA VILLALBA CARDOZO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GENERAL FRANCISCO ISIDORO RESQU?N</SimpleData>
+            <SimpleData name="Localidad">NARANJITO - SANTA LUCIA</SimpleData>
+            <SimpleData name="TelÈfono">0984409564</SimpleData>
+            <SimpleData name="Vivienda_L">-24.00529270000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.31900210000</SimpleData>
+            <SimpleData name="Parcela_La">-24.00654661000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.31780387000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">76</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.3172753001441,-24.0066340001633,0
+                -56.3174127999099,-24.0071806997004,0
+                -56.3180072996992,-24.0069681998715,0
+                -56.3182767998622,-24.0068269997644,0
+                -56.3183180997074,-24.0065689005208,0
+                -56.3180212998239,-24.0059026005379,0
+                -56.317425299964,-24.00605040053,0
+                -56.3175668995391,-24.0065619003365,0
+                -56.3172753001441,-24.0066340001633,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.17">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.schema">
+            <SimpleData name="CÈdula">4018138.00000000000</SimpleData>
+            <SimpleData name="cedula">4018138</SimpleData>
+            <SimpleData name="N">67.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CRECENCIO GONZALEZ VILLALBA</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GENERAL FRANCISCO ISIDORO RESQU?N</SimpleData>
+            <SimpleData name="Localidad">CALLE SAN MIGUEL</SimpleData>
+            <SimpleData name="TelÈfono">0983103143</SimpleData>
+            <SimpleData name="Vivienda_L">-23.96715690000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.28910950000</SimpleData>
+            <SimpleData name="Parcela_La">-23.96734775000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.28968362000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">67</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2893550338739,-23.9676771613519,0
+                -56.2887314997292,-23.9679055996739,0
+                -56.2888493996837,-23.9681118998219,0
+                -56.2892675997249,-23.9678736004089,0
+                -56.2893507769783,-23.967703159714,0
+                -56.2893212003194,-23.9678837999087,0
+                -56.2903065003624,-23.9673905997519,0
+                -56.2901323996581,-23.9669861996848,0
+                -56.2898573003978,-23.9665794002502,0
+                -56.289556399886,-23.9669009003545,0
+                -56.2895461000033,-23.9672463004947,0
+                -56.2893918998172,-23.9674519998345,0
+                -56.2893550338739,-23.9676771613519,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.18">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.schema">
+            <SimpleData name="CÈdula">6796455.00000000000</SimpleData>
+            <SimpleData name="cedula">6796455</SimpleData>
+            <SimpleData name="N">66.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">GLORIA BEATRIZ ROMERO BOGADO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GENERAL FRANCISCO ISIDORO RESQU?N</SimpleData>
+            <SimpleData name="Localidad">CALLE SAN JUAN</SimpleData>
+            <SimpleData name="TelÈfono">0973513971</SimpleData>
+            <SimpleData name="Vivienda_L">-24.01456800000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.25604100000</SimpleData>
+            <SimpleData name="Parcela_La">-23.99063192000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.29564890000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">66</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.2928798016341,-23.9925209916602,0
+                  -56.2930445015254,-23.9924357913859,0
+                  -56.2927437023182,-23.9918782919328,0
+                  -56.2924994019986,-23.991952191678,0
+                  -56.2928798016341,-23.9925209916602,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.2954125022037,-23.9911600917601,0
+                  -56.2962454113023,-23.9908136412948,0
+                  -56.2957972585544,-23.9900920835393,0
+                  -56.2951050016623,-23.9904321920315,0
+                  -56.2954125022037,-23.9911600917601,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.19">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.schema">
+            <SimpleData name="CÈdula">6849737.00000000000</SimpleData>
+            <SimpleData name="cedula">6849737</SimpleData>
+            <SimpleData name="N">72.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">PABLINA SOSA BENITEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GENERAL FRANCISCO ISIDORO RESQU?N</SimpleData>
+            <SimpleData name="Localidad">AVARIJU- SANTA CAROLINA</SimpleData>
+            <SimpleData name="TelÈfono">0983418251</SimpleData>
+            <SimpleData name="Vivienda_L">-24.12812300000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.27799240000</SimpleData>
+            <SimpleData name="Parcela_La">-24.12535280000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.27862162000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">72</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2780895995615,-24.124935599934,0
+                -56.2783523004599,-24.1258843998148,0
+                -56.279069500402,-24.1258554003431,0
+                -56.2789272001592,-24.1252613999497,0
+                -56.2791445334608,-24.1252137587731,0
+                -56.2789641552603,-24.1248521321915,0
+                -56.2780895995615,-24.124935599934,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.20">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.schema">
+            <SimpleData name="CÈdula">1529227.00000000000</SimpleData>
+            <SimpleData name="cedula">1529227</SimpleData>
+            <SimpleData name="N">69.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">EULALIA FLEITAS VERA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GENERAL FRANCISCO ISIDORO RESQU?N</SimpleData>
+            <SimpleData name="Localidad">KO??  POTY</SimpleData>
+            <SimpleData name="TelÈfono">0985336087</SimpleData>
+            <SimpleData name="Vivienda_L">-23.93103750000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.29450740000</SimpleData>
+            <SimpleData name="Parcela_La">-23.92522266000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.29741090000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">69</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2970375413403,-23.9254309175438,0
+                -56.2973682417677,-23.9256409171518,0
+                -56.2974731416293,-23.9256381172131,0
+                -56.2976007416893,-23.9255966171264,0
+                -56.2981477409916,-23.9255756168753,0
+                -56.2982864414075,-23.9252976173549,0
+                -56.296501041166,-23.924631017618,0
+                -56.2964523416296,-23.9247335173937,0
+                -56.2969609414673,-23.9251511169489,0
+                -56.2970375413403,-23.9254309175438,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.21">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.schema">
+            <SimpleData name="CÈdula">6785761.00000000000</SimpleData>
+            <SimpleData name="cedula">6785761</SimpleData>
+            <SimpleData name="N">73.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">FABIANA GAUTO DOMINGUEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GENERAL FRANCISCO ISIDORO RESQU?N</SimpleData>
+            <SimpleData name="Localidad">AVARIJU- SANTA CAROLINA</SimpleData>
+            <SimpleData name="TelÈfono">0986190245</SimpleData>
+            <SimpleData name="Vivienda_L">-24.12211580000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.28869030000</SimpleData>
+            <SimpleData name="Parcela_La">-24.12427612000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.28930440000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">73</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.2877447999522,-24.1265072997259,0
+                  -56.2886569996193,-24.1264526999358,0
+                  -56.2885441997418,-24.1259656003789,0
+                  -56.2876445003498,-24.1260554001011,0
+                  -56.2877447999522,-24.1265072997259,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.2895804998198,-24.1248059000648,0
+                  -56.2895400002153,-24.1236973001436,0
+                  -56.2890925999759,-24.1238656000589,0
+                  -56.2889723996892,-24.1239703002059,0
+                  -56.2890788999488,-24.1247411996654,0
+                  -56.2895804998198,-24.1248059000648,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.22">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.schema">
+            <SimpleData name="CÈdula">4174319.00000000000</SimpleData>
+            <SimpleData name="cedula">4174319</SimpleData>
+            <SimpleData name="N">70.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">VIRGINIA GALEANO TORRES</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">SI</SimpleData>
+            <SimpleData name="Titular_se">HIPOLITA PORTILLO MARTINEZ</SimpleData>
+            <SimpleData name="CÈdula_Ti">5469320</SimpleData>
+            <SimpleData name="SituaciÛn">se mud? a otra comunidad</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GENERAL FRANCISCO ISIDORO RESQU?N</SimpleData>
+            <SimpleData name="Localidad">NARANJAY</SimpleData>
+            <SimpleData name="TelÈfono">0982929569</SimpleData>
+            <SimpleData name="Vivienda_L">-23.95549200000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.36815520000</SimpleData>
+            <SimpleData name="Parcela_La">-23.94876206000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.36115142000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">70</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.360511399721,-23.9487121000661,0
+                -56.3608523002095,-23.9493029996673,0
+                -56.361327000436,-23.9490600998091,0
+                -56.3618010998923,-23.9488213000761,0
+                -56.3614265998311,-23.9482159001515,0
+                -56.360511399721,-23.9487121000661,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.23">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.schema">
+            <SimpleData name="CÈdula">3468685.00000000000</SimpleData>
+            <SimpleData name="cedula">3468685</SimpleData>
+            <SimpleData name="N">88.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">GLADYS ESTELA GARAY AVALOS</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GENERAL FRANCISCO ISIDORO RESQU?N</SimpleData>
+            <SimpleData name="Localidad">NARANJITO CENTRO</SimpleData>
+            <SimpleData name="TelÈfono">0981877934</SimpleData>
+            <SimpleData name="Vivienda_L">-24.00784580000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.29692330000</SimpleData>
+            <SimpleData name="Parcela_La">-24.00455601000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.30370227000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">88</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.3030785999895,-24.0043820003735,0
+                -56.3036059996939,-24.0051297002453,0
+                -56.3043126004515,-24.0047239000076,0
+                -56.3038259004205,-24.0039911001636,0
+                -56.3030785999895,-24.0043820003735,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.24">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.schema">
+            <SimpleData name="CÈdula">6804046.00000000000</SimpleData>
+            <SimpleData name="cedula">6804046</SimpleData>
+            <SimpleData name="N">78.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">SEBASTIAN CHAMORRO ALEGRE</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GENERAL FRANCISCO ISIDORO RESQU?N</SimpleData>
+            <SimpleData name="Localidad">TAHEKYI - SAN LUIS</SimpleData>
+            <SimpleData name="TelÈfono">0986875478</SimpleData>
+            <SimpleData name="Vivienda_L">-23.96651130000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.26360360000</SimpleData>
+            <SimpleData name="Parcela_La">-23.96369408000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.26095257000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">78</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.2613384170116,-23.965113386928,0
+                  -56.261468217311,-23.9650810869011,0
+                  -56.261231917074,-23.9644693867933,0
+                  -56.2611663171984,-23.9644873866896,0
+                  -56.2611572177325,-23.9645989870646,0
+                  -56.2611191168916,-23.9646821872631,0
+                  -56.261233417079,-23.9649754868048,0
+                  -56.2613384170116,-23.965113386928,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.2606719177417,-23.9632118866904,0
+                  -56.260427617844,-23.9631995871741,0
+                  -56.2603018174763,-23.9633558872835,0
+                  -56.2604360172932,-23.9635504868945,0
+                  -56.2604414169837,-23.9635511866837,0
+                  -56.2604416174456,-23.9635468866952,0
+                  -56.2604773175697,-23.9636248868161,0
+                  -56.2605070171179,-23.9636765871566,0
+                  -56.2606705172183,-23.9638375875361,0
+                  -56.2608718177488,-23.9640401869986,0
+                  -56.2610192200209,-23.9639509722438,0
+                  -56.2612344174518,-23.9637776866618,0
+                  -56.261370117828,-23.9636702874624,0
+                  -56.2615476174643,-23.9635483872213,0
+                  -56.2614526178306,-23.9634382874373,0
+                  -56.2611848170846,-23.9632313874421,0
+                  -56.2608661171029,-23.96306718734,0
+                  -56.2606719177417,-23.9632118866904,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.25">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.schema">
+            <SimpleData name="CÈdula">7364002.00000000000</SimpleData>
+            <SimpleData name="cedula">7364002</SimpleData>
+            <SimpleData name="N">89.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">DEISY EVELIN GOMEZ CHAVEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GENERAL FRANCISCO ISIDORO RESQU?N</SimpleData>
+            <SimpleData name="Localidad">SAN BLAS</SimpleData>
+            <SimpleData name="TelÈfono">0983307600</SimpleData>
+            <SimpleData name="Vivienda_L">-24.00644630000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.27377560000</SimpleData>
+            <SimpleData name="Parcela_La">-24.00580656000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.27568082000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">89</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2755763001616,-24.0056457003532,0
+                -56.2753839002161,-24.0057332999235,0
+                -56.2751939003809,-24.005823099901,0
+                -56.2750486000852,-24.0058950004739,0
+                -56.2748365001033,-24.0060290000455,0
+                -56.2748082997845,-24.0062386002466,0
+                -56.2749386996849,-24.006398600222,0
+                -56.2751402997333,-24.0063185004914,0
+                -56.2753347995287,-24.0062234003398,0
+                -56.2754958999851,-24.0061337002555,0
+                -56.2756889004461,-24.0060299003564,0
+                -56.2759495001661,-24.0059032999117,0
+                -56.2760881000093,-24.0058143003534,0
+                -56.2762187000468,-24.0057608996529,0
+                -56.2763846000691,-24.0056516999421,0
+                -56.2763983995347,-24.0056579003776,0
+                -56.2763982999658,-24.0056583000162,0
+                -56.276511800307,-24.0056037002089,0
+                -56.2765404997437,-24.0055749004839,0
+                -56.2765759004114,-24.0054435998067,0
+                -56.2765029002799,-24.0053369004777,0
+                -56.2763898996232,-24.0052391001054,0
+                -56.2761944004518,-24.0052716002611,0
+                -56.2760426002889,-24.0053722003556,0
+                -56.2759331998661,-24.0054382001479,0
+                -56.27581789971,-24.0055216999956,0
+                -56.2757087004452,-24.0055727999158,0
+                -56.2755763001616,-24.0056457003532,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.26">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.schema">
+            <SimpleData name="CÈdula">8046826.00000000000</SimpleData>
+            <SimpleData name="cedula">8046826</SimpleData>
+            <SimpleData name="N">65.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">DOLLY DAHIANA DENIS DOMINGUEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GENERAL FRANCISCO ISIDORO RESQU?N</SimpleData>
+            <SimpleData name="Localidad">CALLE PALOMA</SimpleData>
+            <SimpleData name="TelÈfono">0982230516</SimpleData>
+            <SimpleData name="Vivienda_L">-24.06647710000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.43191970000</SimpleData>
+            <SimpleData name="Parcela_La">-24.06453546000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.43105988000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">65</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4304008000398,-24.0636060996839,0
+                -56.4314113996855,-24.0655847003062,0
+                -56.4317136998883,-24.0654685999299,0
+                -56.430729300219,-24.0635103003683,0
+                -56.4304008000398,-24.0636060996839,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.27">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GENERAL_FRANCISCO_ISIDORO_RESQU__N.schema">
+            <SimpleData name="CÈdula">5678710.00000000000</SimpleData>
+            <SimpleData name="cedula">5678710</SimpleData>
+            <SimpleData name="N">81.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">JUANITA MENDOZA BENITEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GENERAL FRANCISCO ISIDORO RESQU?N</SimpleData>
+            <SimpleData name="Localidad">TAPYI KUE - ISLA ALTA</SimpleData>
+            <SimpleData name="TelÈfono">0986867920</SimpleData>
+            <SimpleData name="Vivienda_L">-23.93421730000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.26094810000</SimpleData>
+            <SimpleData name="Parcela_La">-23.93325196000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.26419209000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">81</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2642170995001,-23.9336845002577,0
+                -56.2646653995512,-23.9339276002823,0
+                -56.2648667001435,-23.9332557998672,0
+                -56.2636728003055,-23.9325943001991,0
+                -56.2634825001897,-23.9330907999282,0
+                -56.2640292995456,-23.9335413001946,0
+                -56.2642170995001,-23.9336845002577,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

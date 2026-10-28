@@ -1,0 +1,2423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_VILLA_YGATIM__.schema">
+      <SimpleField name="CÈdula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="N" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="CÈdula_Ti" type="string"/>
+      <SimpleField name="SituaciÛn" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="TelÈfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_de_p" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Cantidad_d" type="double"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
+    </Schema>
+    <Document id="Distrito_VILLA_YGATIM__">
+      <name>Distrito_VILLA YGATIM√ç</name>
+      <Placemark id="Distrito_VILLA_YGATIM__.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">4083741.00000000000</SimpleData>
+            <SimpleData name="cedula">4083741</SimpleData>
+            <SimpleData name="N">281.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">TOMASA MBEPURANGI</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">CHUPA POU</SimpleData>
+            <SimpleData name="TelÈfono">0986555289</SimpleData>
+            <SimpleData name="Vivienda_L">-24.20877450000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.67988340000</SimpleData>
+            <SimpleData name="Parcela_La">-24.20278446000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.68231813000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P2-P13X-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">281</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.6815428873492,-24.2028798053918,0
+                -55.6815434422766,-24.2028822330642,0
+                -55.6816275998027,-24.2032424012903,0
+                -55.6831284006253,-24.2028386002739,0
+                -55.6829695996864,-24.2023342014212,0
+                -55.6821825008367,-24.2025266003756,0
+                -55.6817355000654,-24.2026904014484,0
+                -55.681517800172,-24.2027725006803,0
+                -55.6815428873492,-24.2028798053918,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">6756499.00000000000</SimpleData>
+            <SimpleData name="cedula">6756499</SimpleData>
+            <SimpleData name="N">576.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">JULIANA FAGI</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">ARROYO BANDERA</SimpleData>
+            <SimpleData name="TelÈfono">0986132116</SimpleData>
+            <SimpleData name="Vivienda_L">-24.10405440000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.54831860000</SimpleData>
+            <SimpleData name="Parcela_La">-24.11004365000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.54228282000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P1-P4P4-P1X-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">576</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5427501188681,-24.109591355536,0
+                -55.5416409750001,-24.1098893276197,0
+                -55.5413928005164,-24.1099559996864,0
+                -55.5416116994675,-24.1104272008523,0
+                -55.5421212001209,-24.1102653003565,0
+                -55.5421636007548,-24.1104427004315,0
+                -55.5427463499705,-24.1102726327292,0
+                -55.5429805014293,-24.1102043013295,0
+                -55.5432143002075,-24.1101233004393,0
+                -55.5435489183266,-24.1100136467047,0
+                -55.5436284002519,-24.1099876000564,0
+                -55.5436109997023,-24.1099250002746,0
+                -55.5429987003741,-24.110138199551,0
+                -55.5429623003326,-24.1101330998112,0
+                -55.5429411998199,-24.1101317011679,0
+                -55.5427800998323,-24.109583300306,0
+                -55.5427501188681,-24.109591355536,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">7523688.00000000000</SimpleData>
+            <SimpleData name="cedula">7523688</SimpleData>
+            <SimpleData name="N">661.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ANDREA BIKREMOGI</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">ARROYO BANDERA</SimpleData>
+            <SimpleData name="TelÈfono">0986289914</SimpleData>
+            <SimpleData name="Vivienda_L">-24.10378110000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.54847670000</SimpleData>
+            <SimpleData name="Parcela_La">-24.10946855000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.54205766000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P1-P4P4-P1X-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">661</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5416409750001,-24.1098893276197,0
+                -55.5427501188681,-24.109591355536,0
+                -55.5425367006115,-24.1088700002766,0
+                -55.5412934001241,-24.1095578006299,0
+                -55.5413917001452,-24.1099550003745,0
+                -55.5416409750001,-24.1098893276197,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">5468579.00000000000</SimpleData>
+            <SimpleData name="cedula">5468579</SimpleData>
+            <SimpleData name="N">641.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ZULMA DUARTE VILLALBA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">ITANARAM? - BARRIO  CENTRO</SimpleData>
+            <SimpleData name="TelÈfono">982603419</SimpleData>
+            <SimpleData name="Vivienda_L">-24.10695980000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.69428000000</SimpleData>
+            <SimpleData name="Parcela_La">-24.09585829000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.70083842000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">641</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.7010040629794,-24.0963468646391,0
+                -55.7012750003594,-24.0956264999464,0
+                -55.7014585857453,-24.0956279043663,0
+                -55.7015229008135,-24.0954202001559,0
+                -55.7010314999219,-24.0951933001058,0
+                -55.700706699944,-24.0954617001028,0
+                -55.7007416994985,-24.0958750002127,0
+                -55.7003083001641,-24.0958983000055,0
+                -55.7000682997934,-24.0960600003857,0
+                -55.7002924003461,-24.0963363997842,0
+                -55.7008871005653,-24.0964028998226,0
+                -55.7010040629794,-24.0963468646391,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">4006631.00000000000</SimpleData>
+            <SimpleData name="cedula">4006631</SimpleData>
+            <SimpleData name="N">304.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ASUNCIONA SANTOS CACERES</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">ITANARAM? - BARRIO  CENTRO</SimpleData>
+            <SimpleData name="TelÈfono">0981378177</SimpleData>
+            <SimpleData name="Vivienda_L">-24.10865390000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.69150110000</SimpleData>
+            <SimpleData name="Parcela_La">-24.10675452000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.68824760000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P3-P11X-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">304</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.6874853002042,-24.1070236006161,0
+                -55.6880131001645,-24.1074877995613,0
+                -55.6890005994625,-24.1063541994853,0
+                -55.6888291000409,-24.1060866004897,0
+                -55.6885910000441,-24.1061535002243,0
+                -55.6882303997197,-24.1063370001147,0
+                -55.687956200227,-24.1065728995298,0
+                -55.6874853002042,-24.1070236006161,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">7614216.00000000000</SimpleData>
+            <SimpleData name="cedula">7614216</SimpleData>
+            <SimpleData name="N">292.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">AMADA GONZALEZ BENITEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">ITANARAMI - BARRIO 8 DE DICIEMBRE</SimpleData>
+            <SimpleData name="TelÈfono">No tiene</SimpleData>
+            <SimpleData name="Vivienda_L">-24.09304300000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.69702400000</SimpleData>
+            <SimpleData name="Parcela_La">-24.09571857000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.69853426000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P3-P11X-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">292</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.6985694999304,-24.0950740994604,0
+                -55.6985054999817,-24.0951345996694,0
+                -55.6983513999459,-24.095107000281,0
+                -55.6982382004898,-24.0952445008294,0
+                -55.6982041001636,-24.0958378999152,0
+                -55.6982009004031,-24.0963737996324,0
+                -55.698822899696,-24.0963453999812,0
+                -55.6988399996274,-24.0959152007889,0
+                -55.6988276999643,-24.0949317996747,0
+                -55.6986853999771,-24.0949337002344,0
+                -55.6986406998578,-24.0950613006127,0
+                -55.6985694999304,-24.0950740994604,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">6825756.00000000000</SimpleData>
+            <SimpleData name="cedula">6825756</SimpleData>
+            <SimpleData name="N">601.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">GLADYS GONZALEZ DURANT</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">MBOI JAGUA - BARRIO PINDOTY</SimpleData>
+            <SimpleData name="TelÈfono">0984985537</SimpleData>
+            <SimpleData name="Vivienda_L">-24.12766210000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.59201900000</SimpleData>
+            <SimpleData name="Parcela_La">-24.12662671000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.59277010000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P1-P4P4-P1X-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">601</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5935008998635,-24.1259839007688,0
+                -55.5928758002733,-24.1261595003848,0
+                -55.592608300043,-24.1261117012061,0
+                -55.5919767016488,-24.1274233007503,0
+                -55.5922449999499,-24.1275417002184,0
+                -55.5930174008888,-24.1265444002138,0
+                -55.593208301396,-24.1263563996534,0
+                -55.5936273002995,-24.1265081007991,0
+                -55.5937197995173,-24.1261972000218,0
+                -55.5935008998635,-24.1259839007688,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">4554661.00000000000</SimpleData>
+            <SimpleData name="cedula">4554661</SimpleData>
+            <SimpleData name="N">284.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MIRIAN ESTELA MARTINEZ CHAMORRO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">SAN ANTONIO</SimpleData>
+            <SimpleData name="TelÈfono">0985951133</SimpleData>
+            <SimpleData name="Vivienda_L">-24.06832330000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.73523430000</SimpleData>
+            <SimpleData name="Parcela_La">-24.06164807000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.73780566000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P3-P11X-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">284</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.7373023001472,-24.0619590000588,0
+                -55.7382758995328,-24.062015399944,0
+                -55.7386059999346,-24.0615774997938,0
+                -55.7383542003529,-24.0614059998802,0
+                -55.7370535000597,-24.0612672997462,0
+                -55.7373023001472,-24.0619590000588,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">5706326.00000000000</SimpleData>
+            <SimpleData name="cedula">5706326</SimpleData>
+            <SimpleData name="N">283.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">VERONICA GONZALEZ BENITEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">ITANARAMI - BARRIO 8 DE DICIEMBRE</SimpleData>
+            <SimpleData name="TelÈfono">0985785435</SimpleData>
+            <SimpleData name="Vivienda_L">-24.09410060000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.69662170000</SimpleData>
+            <SimpleData name="Parcela_La">-24.09559643000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.69915593000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P3-P11X-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">283</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.6988439003218,-24.0949120006947,0
+                -55.6988586003738,-24.0963649995993,0
+                -55.6994683003152,-24.0962477000155,0
+                -55.6994636008089,-24.0948668999726,0
+                -55.6988439003218,-24.0949120006947,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">4165407.00000000000</SimpleData>
+            <SimpleData name="cedula">4165407</SimpleData>
+            <SimpleData name="N">287.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CLAUDIA PORTILLO GARCIA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">MBOI JAGUA - BARRIO CA?ADITA</SimpleData>
+            <SimpleData name="TelÈfono">0986136768</SimpleData>
+            <SimpleData name="Vivienda_L">-24.11226970000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.55621060000</SimpleData>
+            <SimpleData name="Parcela_La">-24.12746021000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.55280406000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">287</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5528172010814,-24.1281076007596,0
+                -55.5530347001742,-24.1281861009169,0
+                -55.5532951996549,-24.1281838004517,0
+                -55.5533287999497,-24.127943900847,0
+                -55.5528416001453,-24.1276736001089,0
+                -55.5529607993985,-24.1273594003827,0
+                -55.5532614997099,-24.1271059010944,0
+                -55.5532392001,-24.1268774007365,0
+                -55.5530298999758,-24.1266540004532,0
+                -55.5524213996653,-24.1269982005142,0
+                -55.5524503009429,-24.1273748001919,0
+                -55.5523263001749,-24.1275165005137,0
+                -55.5523650991841,-24.1279358003289,0
+                -55.5528172010814,-24.1281076007596,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">3980879.00000000000</SimpleData>
+            <SimpleData name="cedula">3980879</SimpleData>
+            <SimpleData name="N">276.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">OSCAR MBYVAGI</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">ARROYO BANDERA</SimpleData>
+            <SimpleData name="TelÈfono">0985595224</SimpleData>
+            <SimpleData name="Vivienda_L">-24.10225860000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.54873630000</SimpleData>
+            <SimpleData name="Parcela_La">-24.12092218000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.54417364000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">276</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5445825023786,-24.1214097454563,0
+                -55.5445952002868,-24.1214115000261,0
+                -55.5446048575778,-24.1210686253948,0
+                -55.5446224999987,-24.1204423004839,0
+                -55.5437817006248,-24.1204816998803,0
+                -55.5436626997686,-24.1213348003009,0
+                -55.5441099998908,-24.121365000628,0
+                -55.5441622996285,-24.1213496006349,0
+                -55.5441744991617,-24.1213534003416,0
+                -55.5445825023786,-24.1214097454563,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">7307602.00000000000</SimpleData>
+            <SimpleData name="cedula">7307602</SimpleData>
+            <SimpleData name="N">311.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NELIA FERREIRA BENITEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">ITANARAMI - BARRIO YAYAITY</SimpleData>
+            <SimpleData name="TelÈfono">0983062979</SimpleData>
+            <SimpleData name="Vivienda_L">-24.07336830000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.71474170000</SimpleData>
+            <SimpleData name="Parcela_La">-24.07270151000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.71579865000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P3-P11X-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">311</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.7151449001983,-24.0728008002709,0
+                -55.7156682997946,-24.073406600159,0
+                -55.715923899508,-24.0730986001274,0
+                -55.7160771998773,-24.0729563994378,0
+                -55.7162773995679,-24.0727539999434,0
+                -55.7164371993418,-24.0725217001276,0
+                -55.7162314001011,-24.0723119992122,0
+                -55.7159896999255,-24.072043000157,0
+                -55.7157246004403,-24.0722393999034,0
+                -55.7151449001983,-24.0728008002709,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.13">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">6227163.00000000000</SimpleData>
+            <SimpleData name="cedula">6227163</SimpleData>
+            <SimpleData name="N">508.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CARMEN SANTACRUZ MARTINEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">NUEVA ALIANZA</SimpleData>
+            <SimpleData name="TelÈfono">0983290927</SimpleData>
+            <SimpleData name="Vivienda_L">-24.22301460000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.59641090000</SimpleData>
+            <SimpleData name="Parcela_La">-24.25093999000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.60033041000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P5-P11X-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">508</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5997483992701,-24.2512431998989,0
+                -55.5999165997605,-24.2516175993566,0
+                -55.6004187000627,-24.2514835000147,0
+                -55.6006740998979,-24.2514076997299,0
+                -55.6007677007511,-24.2506470002093,0
+                -55.6008465998684,-24.2502197994278,0
+                -55.6005775001247,-24.2502448002282,0
+                -55.6002048002703,-24.2503675003103,0
+                -55.5997483992701,-24.2512431998989,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.14">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">6739827.00000000000</SimpleData>
+            <SimpleData name="cedula">6739827</SimpleData>
+            <SimpleData name="N">565.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">DANIELA JUKUGI</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">ARROYO BANDERA</SimpleData>
+            <SimpleData name="TelÈfono">0983386202</SimpleData>
+            <SimpleData name="Vivienda_L">-24.10441990000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.55012400000</SimpleData>
+            <SimpleData name="Parcela_La">-24.12128413000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.54474363000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">565</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5446048575778,-24.1210686253948,0
+                -55.5445952002868,-24.1214115000261,0
+                -55.5445825023786,-24.1214097454563,0
+                -55.5445796996587,-24.1214525001794,0
+                -55.5441298001296,-24.1213899998269,0
+                -55.5439754998187,-24.1219180997612,0
+                -55.544627200924,-24.1219978002465,0
+                -55.5448090002695,-24.121717000528,0
+                -55.5449839007532,-24.1217230998752,0
+                -55.5451810014886,-24.1213920000733,0
+                -55.5453340006437,-24.1210299009687,0
+                -55.5453500988527,-24.1206768012516,0
+                -55.5450817790308,-24.1206210187167,0
+                -55.545006699559,-24.1206200000531,0
+                -55.5448713994761,-24.120597499093,0
+                -55.5448013419733,-24.1203877853422,0
+                -55.544646600083,-24.1204316993256,0
+                -55.5446048575778,-24.1210686253948,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.15">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">6740400.00000000000</SimpleData>
+            <SimpleData name="cedula">6740400</SimpleData>
+            <SimpleData name="N">566.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">PABLINA NAMBUVACHUGI JAVAGI BYVAGI</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">ARROYO BANDERA</SimpleData>
+            <SimpleData name="TelÈfono">0974226065</SimpleData>
+            <SimpleData name="Vivienda_L">-24.10448120000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.55020340000</SimpleData>
+            <SimpleData name="Parcela_La">-24.12030601000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.54340906000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P1-P4P4-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">566</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5437802792463,-24.119894058442,0
+                -55.5437704026148,-24.1198931434274,0
+                -55.5437523251499,-24.1198914648275,0
+                -55.5435436002094,-24.1198721004476,0
+                -55.5435466215421,-24.1198342205223,0
+                -55.5435648992122,-24.1196051002325,0
+                -55.5429247005746,-24.1195426997934,0
+                -55.5430567993936,-24.1201078004379,0
+                -55.5431552997238,-24.1202892002323,0
+                -55.5431932003486,-24.1211198008538,0
+                -55.5436818996842,-24.1211094011443,0
+                -55.5438356999422,-24.1198992012748,0
+                -55.5437802792463,-24.119894058442,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.16">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">8091320.00000000000</SimpleData>
+            <SimpleData name="cedula">8091320</SimpleData>
+            <SimpleData name="N">282.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NOEMIA VILLALBA ROMERO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">ITA POTY</SimpleData>
+            <SimpleData name="TelÈfono">0972582865</SimpleData>
+            <SimpleData name="Vivienda_L">-24.10232380000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.60881360000</SimpleData>
+            <SimpleData name="Parcela_La">-24.10206278000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.60823857000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P2-P13X-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">282</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.6079390580694,-24.1025537203327,0
+                -55.6080241045693,-24.1026526272567,0
+                -55.6080276813533,-24.1026557382934,0
+                -55.6081438000571,-24.1027259000337,0
+                -55.6082295002785,-24.1026514006338,0
+                -55.608564488074,-24.1023648776134,0
+                -55.6088649999704,-24.1019571999067,0
+                -55.6084585998165,-24.1014499007713,0
+                -55.607528148418,-24.1019450758682,0
+                -55.6077450002562,-24.1020721007315,0
+                -55.6078038002406,-24.1021623017599,0
+                -55.607820600624,-24.1024070010716,0
+                -55.6079390580694,-24.1025537203327,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.17">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">7503775.00000000000</SimpleData>
+            <SimpleData name="cedula">7503775</SimpleData>
+            <SimpleData name="N">659.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIA LINA CACERES GONZALEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">MBOI JAGUA - BARRIO PINDOTY</SimpleData>
+            <SimpleData name="TelÈfono">0984846586</SimpleData>
+            <SimpleData name="Vivienda_L">-24.12749830000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.60488170000</SimpleData>
+            <SimpleData name="Parcela_La">-24.12661382000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.60327214000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P1-P4P4-P1X-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">659</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.6026069006105,-24.1261924003812,0
+                -55.6029500013247,-24.1270000002454,0
+                -55.6041266998077,-24.1269181010757,0
+                -55.6033400018795,-24.1262100005954,0
+                -55.6026069006105,-24.1261924003812,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.18">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">6757819.00000000000</SimpleData>
+            <SimpleData name="cedula">6757819</SimpleData>
+            <SimpleData name="N">578.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MONICA CHACHUGI</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">ARROYO BANDERA</SimpleData>
+            <SimpleData name="TelÈfono">No tiene</SimpleData>
+            <SimpleData name="Vivienda_L">-24.10396160000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.54899740000</SimpleData>
+            <SimpleData name="Parcela_La">-24.10932052000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.54313245000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P1-P4P4-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">578</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5427161998504,-24.1093381006386,0
+                -55.542972999886,-24.1101054005793,0
+                -55.5430614002783,-24.1100948998927,0
+                -55.5435359002788,-24.1099203011284,0
+                -55.5435830004582,-24.1098279016128,0
+                -55.5434401992653,-24.1088941999497,0
+                -55.5433314001519,-24.1085657004632,0
+                -55.5432625998135,-24.1085010998272,0
+                -55.5431218999354,-24.1085650014443,0
+                -55.5426626992771,-24.1088691008615,0
+                -55.5426619003492,-24.1089009996452,0
+                -55.5427161998504,-24.1093381006386,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.19">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">4180676.00000000000</SimpleData>
+            <SimpleData name="cedula">4180676</SimpleData>
+            <SimpleData name="N">302.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">INOCENCIA GONZALEZ GAUTO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">ITANARAMI - BARRIO 8 DE DICIEMBRE</SimpleData>
+            <SimpleData name="TelÈfono">0981153533</SimpleData>
+            <SimpleData name="Vivienda_L">-24.08781770000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.70266220000</SimpleData>
+            <SimpleData name="Parcela_La">-24.08844971000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.70327349000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">302</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.702485001058,-24.0882599999278,0
+                -55.7037082998983,-24.0891083002816,0
+                -55.7039815999549,-24.0885600991795,0
+                -55.7029332998974,-24.0878417004727,0
+                -55.702485001058,-24.0882599999278,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.20">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">3888003.00000000000</SimpleData>
+            <SimpleData name="cedula">3888003</SimpleData>
+            <SimpleData name="N">274.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">TORIBIA ROMERO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">MBOI JAGUA - BARRIO PINDOTY</SimpleData>
+            <SimpleData name="TelÈfono">0986811069</SimpleData>
+            <SimpleData name="Vivienda_L">-24.12726910000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.60357230000</SimpleData>
+            <SimpleData name="Parcela_La">-24.13498654000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.60585118000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">274</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.6056470996208,-24.1355055011804,0
+                -55.6058085001382,-24.1355649003886,0
+                -55.6063776999077,-24.1354292009522,0
+                -55.6060452003915,-24.1342408015517,0
+                -55.6055992999897,-24.1343908998815,0
+                -55.6056274002228,-24.1348412998639,0
+                -55.6052469011558,-24.1349165992335,0
+                -55.6054068990014,-24.1353302018379,0
+                -55.6056470996208,-24.1355055011804,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.21">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">8345622.00000000000</SimpleData>
+            <SimpleData name="cedula">8345622</SimpleData>
+            <SimpleData name="N">303.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">RUMILDA GONZALEZ MARTINEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">ITANARAMI - BARRIO 8 DE DICIEMBRE</SimpleData>
+            <SimpleData name="TelÈfono">0981153533</SimpleData>
+            <SimpleData name="Vivienda_L">-24.08711280000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.70280990000</SimpleData>
+            <SimpleData name="Parcela_La">-24.08770960000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.70368780000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P3-P11X-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">303</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.702935600315,-24.0875644001544,0
+                -55.7031001996334,-24.0876851001352,0
+                -55.7032073001876,-24.0877374994415,0
+                -55.7033767001316,-24.0878546998489,0
+                -55.7035537003156,-24.0879366999073,0
+                -55.703971599568,-24.0882724005014,0
+                -55.7044379994997,-24.0877902001357,0
+                -55.7043193001755,-24.087659700374,0
+                -55.7039929998566,-24.0874251003374,0
+                -55.7035730004164,-24.087623600867,0
+                -55.7034985999546,-24.0875193994566,0
+                -55.7031764998451,-24.0871332000122,0
+                -55.7030502003762,-24.0871719998373,0
+                -55.7029542000072,-24.0872834000827,0
+                -55.703033200373,-24.0874055999789,0
+                -55.702935600315,-24.0875644001544,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.22">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">6744973.00000000000</SimpleData>
+            <SimpleData name="cedula">6744973</SimpleData>
+            <SimpleData name="N">568.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">EULALIA MONTIEL LOPEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">MBOI JAGUA - BARRIO CENTRO</SimpleData>
+            <SimpleData name="TelÈfono">0983249234</SimpleData>
+            <SimpleData name="Vivienda_L">-24.12326250000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.58187440000</SimpleData>
+            <SimpleData name="Parcela_La">-24.13485419000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.57549788000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">568</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5748918000323,-24.1346837011701,0
+                -55.5751032002132,-24.135341199787,0
+                -55.5761189999455,-24.1351984005454,0
+                -55.5757462010677,-24.1342221012354,0
+                -55.5748918000323,-24.1346837011701,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.23">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">4794827.00000000000</SimpleData>
+            <SimpleData name="cedula">4794827</SimpleData>
+            <SimpleData name="N">317.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARCIAL ALEGRE BENITES</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">MBOI JAGUA - BARRIO PINDOTY</SimpleData>
+            <SimpleData name="TelÈfono">0984955589</SimpleData>
+            <SimpleData name="Vivienda_L">-24.12850150000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.60217120000</SimpleData>
+            <SimpleData name="Parcela_La">-24.14060283000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.60098975000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P1-P4P4-P1X-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">317</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.6007637995656,-24.1411398004197,0
+                -55.6008555013487,-24.1411610008138,0
+                -55.6009998988006,-24.1411403997032,0
+                -55.6014215998326,-24.1409899010118,0
+                -55.6015406003229,-24.1409107994311,0
+                -55.6015390007,-24.1408299002053,0
+                -55.6014117997606,-24.14058880003,0
+                -55.6013344985942,-24.1404865999425,0
+                -55.6012713004079,-24.1401109013536,0
+                -55.6012139992003,-24.1400552009953,0
+                -55.6011300014225,-24.1400111994535,0
+                -55.6005576996761,-24.1401418000892,0
+                -55.6005478996619,-24.140470600716,0
+                -55.6006640005703,-24.1411190007307,0
+                -55.6007637995656,-24.1411398004197,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.24">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">6745553.00000000000</SimpleData>
+            <SimpleData name="cedula">6745553</SimpleData>
+            <SimpleData name="N">569.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">SINHTIA CAROLINA OZUNA DELMONTE</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">MBOI JAGUA - BARRIO CENTRO</SimpleData>
+            <SimpleData name="TelÈfono">0985295969</SimpleData>
+            <SimpleData name="Vivienda_L">-24.12172280000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.58444630000</SimpleData>
+            <SimpleData name="Parcela_La">-24.13675322000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.58022586000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P2-P10P10-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">569</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5795838992796,-24.1370356002348,0
+                -55.5805452007487,-24.1371715998594,0
+                -55.5809050000316,-24.1364450004017,0
+                -55.5798232001317,-24.1363767001038,0
+                -55.5795838992796,-24.1370356002348,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.25">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">4427905.00000000000</SimpleData>
+            <SimpleData name="cedula">4427905</SimpleData>
+            <SimpleData name="N">297.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARINA VERA PORTILLO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">ITANARAMI - BARRIO 8 DE DICIEMBRE</SimpleData>
+            <SimpleData name="TelÈfono">0985299105</SimpleData>
+            <SimpleData name="Vivienda_L">-24.08792300000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.70131420000</SimpleData>
+            <SimpleData name="Parcela_La">-24.09027485000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.70538763000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P3-P11X-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">297</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.7044676001426,-24.0905370005347,0
+                -55.7061697003915,-24.0906007993521,0
+                -55.7062160003472,-24.0905565003856,0
+                -55.7059010996995,-24.0901724000175,0
+                -55.7056638993733,-24.089974100272,0
+                -55.7054527006278,-24.0896781002818,0
+                -55.7052095005759,-24.0898775999719,0
+                -55.7044676001426,-24.0905370005347,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.26">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">4463983.00000000000</SimpleData>
+            <SimpleData name="cedula">4463983</SimpleData>
+            <SimpleData name="N">305.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">SOFIA PIRIS TABARET</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">MBOI JAGUA - BARRIO PINDOTY</SimpleData>
+            <SimpleData name="TelÈfono">0983180732</SimpleData>
+            <SimpleData name="Vivienda_L">-24.12757160000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.59139920000</SimpleData>
+            <SimpleData name="Parcela_La">-24.12684986000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.59179558000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P1-P4P4-P1X-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">305</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5918550515248,-24.1265142120234,0
+                -55.5916925058169,-24.1265072397314,0
+                -55.5914235554601,-24.1264957025538,0
+                -55.591260299747,-24.1264886997749,0
+                -55.5911950001129,-24.1268635007985,0
+                -55.5912490720664,-24.1268782106552,0
+                -55.591506700284,-24.1269482992016,0
+                -55.5914879997281,-24.1273426997148,0
+                -55.5918667000459,-24.1275200015458,0
+                -55.5924594001612,-24.1263080998459,0
+                -55.5921370002338,-24.1263489003785,0
+                -55.591989999809,-24.1265200004578,0
+                -55.5918550515248,-24.1265142120234,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.27">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">7299676.00000000000</SimpleData>
+            <SimpleData name="cedula">7299676</SimpleData>
+            <SimpleData name="N">275.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">RAQUEL ORTIZ BARRETO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">ARROYO GUAZU</SimpleData>
+            <SimpleData name="TelÈfono">0985275031</SimpleData>
+            <SimpleData name="Vivienda_L">-24.01886600000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.67793210000</SimpleData>
+            <SimpleData name="Parcela_La">-24.01710732000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.67268453000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">275</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.6718682999556,-24.0170733001306,0
+                -55.6732347002016,-24.0176225997176,0
+                -55.6734933004007,-24.0170483002216,0
+                -55.6719731995754,-24.0166411001003,0
+                -55.6718682999556,-24.0170733001306,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.28">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">5752680.00000000000</SimpleData>
+            <SimpleData name="cedula">5752680</SimpleData>
+            <SimpleData name="N">299.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">SINTHIA FAGI</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">CHUPA POU</SimpleData>
+            <SimpleData name="TelÈfono">0982441484</SimpleData>
+            <SimpleData name="Vivienda_L">-24.21355340000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.66951180000</SimpleData>
+            <SimpleData name="Parcela_La">-24.21752707000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.67789409000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">299</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.6768718999155,-24.2173271012983,0
+                -55.6779516996495,-24.2177082995297,0
+                -55.6777788999731,-24.2179737999186,0
+                -55.6784804003116,-24.2181068005131,0
+                -55.6787459006308,-24.2176937003476,0
+                -55.6781817003108,-24.2171131015483,0
+                -55.6780513999369,-24.2173892008839,0
+                -55.6769952994153,-24.2169223002064,0
+                -55.6768718999155,-24.2173271012983,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.29">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">6718836.00000000000</SimpleData>
+            <SimpleData name="cedula">6718836</SimpleData>
+            <SimpleData name="N">561.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">EMERENCIANA BENITEZ DELMONTE</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">MBOI JAGUA - BARRIO CA?ADITA</SimpleData>
+            <SimpleData name="TelÈfono">0985328244</SimpleData>
+            <SimpleData name="Vivienda_L">-24.11758500000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.56537000000</SimpleData>
+            <SimpleData name="Parcela_La">-24.12635993000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.56295690000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P1-P4P4-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">561</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5627095014415,-24.1271465001343,0
+                -55.5630518997396,-24.1272252009675,0
+                -55.5631067999731,-24.1271370993967,0
+                -55.5633871993857,-24.1255723001374,0
+                -55.5628189999622,-24.1255341999785,0
+                -55.5625278996919,-24.1270465001847,0
+                -55.5627095014415,-24.1271465001343,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.30">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">7266526.00000000000</SimpleData>
+            <SimpleData name="cedula">7266526</SimpleData>
+            <SimpleData name="N">289.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ADOLBINA PORTILLO TAPARI</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">ITANARAMI - BARRIO 8 DE DICIEMBRE</SimpleData>
+            <SimpleData name="TelÈfono">0984338616</SimpleData>
+            <SimpleData name="Vivienda_L">-24.09040390000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.69954230000</SimpleData>
+            <SimpleData name="Parcela_La">-24.09161797000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.70215602000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P3-P11X-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">289</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.7019339816555,-24.0919626093344,0
+                -55.7019888090102,-24.0919978174982,0
+                -55.7021090000316,-24.0920749995658,0
+                -55.7023773005738,-24.0923559000212,0
+                -55.7026014992055,-24.092183000785,0
+                -55.7022761549655,-24.0907167280151,0
+                -55.7015579006276,-24.0917211000097,0
+                -55.7019339816555,-24.0919626093344,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.31">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">6755131.00000000000</SimpleData>
+            <SimpleData name="cedula">6755131</SimpleData>
+            <SimpleData name="N">306.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ARNALDO CHAMORRO SOSA</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">ARROYO MOK?I - YVA POTY</SimpleData>
+            <SimpleData name="TelÈfono">0981610978</SimpleData>
+            <SimpleData name="Vivienda_L">-24.03874570000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.53591090000</SimpleData>
+            <SimpleData name="Parcela_La">-24.04546207000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.53292839000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P5-P11X-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">306</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5327176994591,-24.0461545996226,0
+                -55.5334208001022,-24.0462515006282,0
+                -55.533242000291,-24.0445247002422,0
+                -55.5325504999219,-24.0447532994252,0
+                -55.5325878002024,-24.044983799939,0
+                -55.5324817998056,-24.0454342002308,0
+                -55.5324329002411,-24.04565840026,0
+                -55.5323835998579,-24.0460340994856,0
+                -55.5327176994591,-24.0461545996226,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.32">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">7029467.00000000000</SimpleData>
+            <SimpleData name="cedula">7029467</SimpleData>
+            <SimpleData name="N">628.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CLAUDELINA BARRIOS BAREIRO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">11 DE SETIEMBRE</SimpleData>
+            <SimpleData name="TelÈfono">0976394831</SimpleData>
+            <SimpleData name="Vivienda_L">-24.03533690000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.57184320000</SimpleData>
+            <SimpleData name="Parcela_La">-24.02163476000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.57738159000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P2-P11X-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">628</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5769349996518,-24.0212100003242,0
+                -55.5769989003449,-24.0221281002035,0
+                -55.5778190996583,-24.0220643999724,0
+                -55.5777733000654,-24.0211433003884,0
+                -55.5769349996518,-24.0212100003242,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.33">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">4165392.00000000000</SimpleData>
+            <SimpleData name="cedula">4165392</SimpleData>
+            <SimpleData name="N">307.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CATALINA DELMONTE PIRIS</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">ARROYO MOK?I - YVA POTY</SimpleData>
+            <SimpleData name="TelÈfono">0986562025</SimpleData>
+            <SimpleData name="Vivienda_L">-24.03779970000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.53404230000</SimpleData>
+            <SimpleData name="Parcela_La">-24.03856206000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.53383803000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P5-P11X-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">307</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5332632992327,-24.0388333003794,0
+                -55.534049999574,-24.0391166995975,0
+                -55.5341077133296,-24.0389571827787,0
+                -55.5343590116822,-24.0382626153303,0
+                -55.5343787003361,-24.0382082005436,0
+                -55.5336467002245,-24.0380466999464,0
+                -55.5332632992327,-24.0388333003794,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.34">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">6063740.00000000000</SimpleData>
+            <SimpleData name="cedula">6063740</SimpleData>
+            <SimpleData name="N">495.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">FRANCISCO SOLANO MARTINEZ ADAMS</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">JEJUIMI</SimpleData>
+            <SimpleData name="TelÈfono">0983134665</SimpleData>
+            <SimpleData name="Vivienda_L">-24.15959220000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.64589460000</SimpleData>
+            <SimpleData name="Parcela_La">-24.16185917000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.64023136000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">495</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.6397394002799,-24.1620823000572,0
+                -55.6399940001807,-24.1623257007655,0
+                -55.6408814990127,-24.1620794995389,0
+                -55.6407154997829,-24.1613700996508,0
+                -55.6394659999292,-24.1617196005195,0
+                -55.6395212004637,-24.1619311006297,0
+                -55.6397394002799,-24.1620823000572,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.35">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">5345303.00000000000</SimpleData>
+            <SimpleData name="cedula">5345303</SimpleData>
+            <SimpleData name="N">298.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARI PIKYGI MBETAPAGI DE MOREL</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">CHUPA POU</SimpleData>
+            <SimpleData name="TelÈfono">0983162115</SimpleData>
+            <SimpleData name="Vivienda_L">-24.21215330000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.67138000000</SimpleData>
+            <SimpleData name="Parcela_La">-24.21308734000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.67154444000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P2-P13X-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">298</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.6709285001676,-24.2127585002454,0
+                -55.6715383994021,-24.213719900375,0
+                -55.6721826001842,-24.2133077000996,0
+                -55.6715004988031,-24.2124920005413,0
+                -55.6709285001676,-24.2127585002454,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.36">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">8052986.00000000000</SimpleData>
+            <SimpleData name="cedula">8052986</SimpleData>
+            <SimpleData name="N">669.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">GLADIS PIRAGI CHERYGI FAGI</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">ARROYO BANDERA</SimpleData>
+            <SimpleData name="TelÈfono">0986132116</SimpleData>
+            <SimpleData name="Vivienda_L">-24.10324750000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.54936870000</SimpleData>
+            <SimpleData name="Parcela_La">-24.11052439000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.54292474000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P1-P11X-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">669</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5435489183266,-24.1100136467047,0
+                -55.5432143002075,-24.1101233004393,0
+                -55.5429805014293,-24.1102043013295,0
+                -55.5427463499705,-24.1102726327292,0
+                -55.542140000532,-24.1104682997827,0
+                -55.542270000336,-24.1110333008477,0
+                -55.5436599998752,-24.1106167012524,0
+                -55.543606700414,-24.1099950011415,0
+                -55.5435489183266,-24.1100136467047,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.37">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">6756496.00000000000</SimpleData>
+            <SimpleData name="cedula">6756496</SimpleData>
+            <SimpleData name="N">575.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">RAQUEL KUCHINGI</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">ARROYO BANDERA</SimpleData>
+            <SimpleData name="TelÈfono">0985603531</SimpleData>
+            <SimpleData name="Vivienda_L">-24.10338500000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.54980360000</SimpleData>
+            <SimpleData name="Parcela_La">-24.11848135000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.54274910000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P1-P4P4-P1X-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">575</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5424874396125,-24.1181880169509,0
+                -55.5424870013365,-24.1182293999303,0
+                -55.5424798015413,-24.1182630011874,0
+                -55.5424625003099,-24.118329701022,0
+                -55.5424404001966,-24.1184080003891,0
+                -55.5424269996271,-24.1184485002284,0
+                -55.5424162002635,-24.1185254011974,0
+                -55.542399200244,-24.1185945998387,0
+                -55.5423819997218,-24.1186293003416,0
+                -55.5423542001135,-24.1186989006977,0
+                -55.5423410001772,-24.1187677996724,0
+                -55.5423345008008,-24.1188001000312,0
+                -55.5423171999694,-24.1188585001976,0
+                -55.5422993999645,-24.1188993011794,0
+                -55.5422878997768,-24.1189209008948,0
+                -55.5422834790838,-24.1189298599941,0
+                -55.5422582499539,-24.1190216259751,0
+                -55.5422599422973,-24.1190238761957,0
+                -55.5422635072662,-24.1190255771935,0
+                -55.5422644003503,-24.1190256010687,0
+                -55.5422644917056,-24.1190260480318,0
+                -55.5428227501331,-24.1192925436045,0
+                -55.5429805928494,-24.118766741485,0
+                -55.543259299817,-24.1178174002195,0
+                -55.5425928004854,-24.1178048004134,0
+                -55.5424874396125,-24.1181880169509,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.38">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">7884358.00000000000</SimpleData>
+            <SimpleData name="cedula">7884358</SimpleData>
+            <SimpleData name="N">293.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">TEODOCIA TAPARI GONZALEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">ITANARAMI - BARRIO 8 DE DICIEMBRE</SimpleData>
+            <SimpleData name="TelÈfono">0985607789</SimpleData>
+            <SimpleData name="Vivienda_L">-24.09061780000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.69934240000</SimpleData>
+            <SimpleData name="Parcela_La">-24.09100466000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.70050838000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">293</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -55.7032699000447,-24.0930940004551,0
+                  -55.7034825002007,-24.0928460003985,0
+                  -55.7030383002622,-24.0925616995283,0
+                  -55.7027105998308,-24.0927733998235,0
+                  -55.7032699000447,-24.0930940004551,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -55.7008717997519,-24.0917425993709,0
+                  -55.7012290003265,-24.0914031003148,0
+                  -55.700220800204,-24.0905994007216,0
+                  -55.6997864006993,-24.0907417002708,0
+                  -55.7002541993751,-24.0911332002153,0
+                  -55.700552899491,-24.0911876998958,0
+                  -55.7008717997519,-24.0917425993709,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.39">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">8348512.00000000000</SimpleData>
+            <SimpleData name="cedula">8348512</SimpleData>
+            <SimpleData name="N">288.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CINTHIA SABINA LOPEZ GAUTO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">ITANARAMI - BARRIO 8 DE DICIEMBRE</SimpleData>
+            <SimpleData name="TelÈfono">0986563844</SimpleData>
+            <SimpleData name="Vivienda_L">-24.09097990000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.69921520000</SimpleData>
+            <SimpleData name="Parcela_La">-24.09214623000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.70171127000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">288</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.7019888090102,-24.0919978174982,0
+                -55.7019339816555,-24.0919626093344,0
+                -55.7015887001877,-24.091754899538,0
+                -55.7011797996294,-24.0915190003352,0
+                -55.7008886007096,-24.0917376001127,0
+                -55.7021136002176,-24.0927986995092,0
+                -55.7024790003283,-24.0925792001913,0
+                -55.7019888090102,-24.0919978174982,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.40">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">6804048.00000000000</SimpleData>
+            <SimpleData name="cedula">6804048</SimpleData>
+            <SimpleData name="N">599.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">DIANA TYKUARANGI</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">ARROYO BANDERA</SimpleData>
+            <SimpleData name="TelÈfono">0984699549</SimpleData>
+            <SimpleData name="Vivienda_L">-24.10257180000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.55053150000</SimpleData>
+            <SimpleData name="Parcela_La">-24.11838880000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.54210058000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P1-P4P4-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">599</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5422834790838,-24.1189298599941,0
+                -55.5422878997768,-24.1189209008948,0
+                -55.5422993999645,-24.1188993011794,0
+                -55.5423171999694,-24.1188585001976,0
+                -55.5423345008008,-24.1188001000312,0
+                -55.5423410001772,-24.1187677996724,0
+                -55.5423542001135,-24.1186989006977,0
+                -55.5423819997218,-24.1186293003416,0
+                -55.542399200244,-24.1185945998387,0
+                -55.5424162002635,-24.1185254011974,0
+                -55.5424269996271,-24.1184485002284,0
+                -55.5424404001966,-24.1184080003891,0
+                -55.5424625003099,-24.118329701022,0
+                -55.5424798015413,-24.1182630011874,0
+                -55.5424870013365,-24.1182293999303,0
+                -55.5424874396125,-24.1181880169509,0
+                -55.5424879017634,-24.1181446999327,0
+                -55.5425154997455,-24.1180716011269,0
+                -55.5425200996064,-24.1180377005395,0
+                -55.5425311998999,-24.1179575000859,0
+                -55.542544000587,-24.1178870016367,0
+                -55.5425592000751,-24.1178521014091,0
+                -55.5425533997667,-24.1177863008648,0
+                -55.5424917988109,-24.1177998001493,0
+                -55.5424664003007,-24.1177794005948,0
+                -55.5424309011646,-24.1177645006564,0
+                -55.5423969995103,-24.1177768997683,0
+                -55.5423771016262,-24.1177916015651,0
+                -55.5423232004239,-24.1178143001696,0
+                -55.5422418997523,-24.11783559945,0
+                -55.5422106002964,-24.1178520002496,0
+                -55.5421536992836,-24.1178773006547,0
+                -55.5420984998921,-24.1178719010946,0
+                -55.5420827996104,-24.1178731003441,0
+                -55.5420582996228,-24.1178763006667,0
+                -55.5420256007709,-24.1178738005281,0
+                -55.5420077001563,-24.1178733000546,0
+                -55.5419739001234,-24.1178927011444,0
+                -55.541951101154,-24.1179209999368,0
+                -55.5419283991487,-24.1179364000279,0
+                -55.5419098999885,-24.1179829004702,0
+                -55.5419019007105,-24.1180425010037,0
+                -55.5418907997061,-24.1180577011966,0
+                -55.5418411998195,-24.1180797002095,0
+                -55.5417967000329,-24.1181025010144,0
+                -55.5417656996267,-24.1181024010028,0
+                -55.541708600243,-24.1180964007119,0
+                -55.5416771008274,-24.1181063004619,0
+                -55.5416787003335,-24.1181170002508,0
+                -55.541681299856,-24.1181590009909,0
+                -55.5416941003089,-24.1182002006239,0
+                -55.5416915999617,-24.1182307005883,0
+                -55.5416945010937,-24.1182855008851,0
+                -55.5416860004521,-24.1183362000738,0
+                -55.5416810993743,-24.1183536005022,0
+                -55.5416913002924,-24.1183936004878,0
+                -55.5416936003792,-24.1184411004603,0
+                -55.5416840999924,-24.1184603000359,0
+                -55.5416757995768,-24.1184816999853,0
+                -55.5417009001079,-24.1185349007832,0
+                -55.5417052994005,-24.1185583011701,0
+                -55.5416915000583,-24.1186027993057,0
+                -55.5416943002833,-24.1186448010569,0
+                -55.5416861994574,-24.1186676007845,0
+                -55.5416882999343,-24.1187248993108,0
+                -55.5417010993402,-24.1187655011343,0
+                -55.5417072001854,-24.1187840017337,0
+                -55.5417040999272,-24.1188195998291,0
+                -55.5417245998704,-24.1188722004383,0
+                -55.5417389997884,-24.1188847002498,0
+                -55.5417897000427,-24.1188778003287,0
+                -55.5418342003005,-24.1188937011157,0
+                -55.541855200522,-24.1188960002202,0
+                -55.5419065004569,-24.1189072006732,0
+                -55.5419510001379,-24.118926801089,0
+                -55.5419764995877,-24.1189469000873,0
+                -55.5420291999978,-24.1189519011007,0
+                -55.5420415004981,-24.1189920005737,0
+                -55.5420374006666,-24.1190230008988,0
+                -55.5420812999174,-24.1190513999792,0
+                -55.5421396014807,-24.1190070006027,0
+                -55.5421611004652,-24.1189988005131,0
+                -55.5422088002326,-24.1190114998292,0
+                -55.5422550695873,-24.1190210619365,0
+                -55.5422660588894,-24.1189842026528,0
+                -55.5422834790838,-24.1189298599941,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.41">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">4180700.00000000000</SimpleData>
+            <SimpleData name="cedula">4180700</SimpleData>
+            <SimpleData name="N">301.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">FELICITA GONZALEZ GAUTO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">ITANARAMI - BARRIO 8 DE DICIEMBRE</SimpleData>
+            <SimpleData name="TelÈfono">0981153533</SimpleData>
+            <SimpleData name="Vivienda_L">-24.08936620000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.70294170000</SimpleData>
+            <SimpleData name="Parcela_La">-24.08930381000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.70320285000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P3-P11X-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">301</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.702601000824,-24.0890682006562,0
+                -55.7032283005288,-24.0898633000859,0
+                -55.7039775999195,-24.0895518995567,0
+                -55.7028029998972,-24.0886368996743,0
+                -55.702601000824,-24.0890682006562,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.42">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">6546455.00000000000</SimpleData>
+            <SimpleData name="cedula">6546455</SimpleData>
+            <SimpleData name="N">291.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ROBERTA DELMONTE</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">ITA POTY</SimpleData>
+            <SimpleData name="TelÈfono">0985925075</SimpleData>
+            <SimpleData name="Vivienda_L">-24.10570460000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.61312720000</SimpleData>
+            <SimpleData name="Parcela_La">-24.10566305000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.61259007000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P2-P11X-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">291</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -55.6117706000544,-24.1074103995465,0
+                  -55.6122200002689,-24.1071550011612,0
+                  -55.6118502017142,-24.1066791009262,0
+                  -55.6114095009892,-24.1069960001875,0
+                  -55.6117706000544,-24.1074103995465,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -55.6127531004882,-24.1054889010622,0
+                  -55.6118592995495,-24.1054876017735,0
+                  -55.6118280989742,-24.1057926004191,0
+                  -55.6121097987201,-24.1058421995581,0
+                  -55.6129943994208,-24.1058333992575,0
+                  -55.6130421002447,-24.105551601015,0
+                  -55.6131595003069,-24.1053981006632,0
+                  -55.6133270993688,-24.1054148008956,0
+                  -55.6133568667446,-24.1050856948086,0
+                  -55.6132548463198,-24.1050826820463,0
+                  -55.6129066994298,-24.1050849999203,0
+                  -55.6127531004882,-24.1054889010622,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.43">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">6859679.00000000000</SimpleData>
+            <SimpleData name="cedula">6859679</SimpleData>
+            <SimpleData name="N">604.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ELODIA ISASI PORTILLO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">MBOI JAGUA - BARRIO CA?ADITA</SimpleData>
+            <SimpleData name="TelÈfono">0986316675</SimpleData>
+            <SimpleData name="Vivienda_L">-24.11729060000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.56661910000</SimpleData>
+            <SimpleData name="Parcela_La">-24.12696145000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.55524026000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">604</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5546628000997,-24.126620100569,0
+                -55.5549215993494,-24.1274970998478,0
+                -55.5557841988221,-24.1273395998626,0
+                -55.5555873997018,-24.1264149001331,0
+                -55.5546628000997,-24.126620100569,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.44">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">6659501.00000000000</SimpleData>
+            <SimpleData name="cedula">6659501</SimpleData>
+            <SimpleData name="N">553.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">VILMA SANTACRUZ MARTINEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">NUEVA ALIANZA</SimpleData>
+            <SimpleData name="TelÈfono">0985634534</SimpleData>
+            <SimpleData name="Vivienda_L">-24.22514240000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.59762730000</SimpleData>
+            <SimpleData name="Parcela_La">-24.22221401000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.60176299000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P5-P11X-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">553</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.6011887005202,-24.2216193999004,0
+                -55.601338800097,-24.2228702003248,0
+                -55.6023421999409,-24.2228268004692,0
+                -55.6021699997392,-24.2215332996949,0
+                -55.6011887005202,-24.2216193999004,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.45">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">6772628.00000000000</SimpleData>
+            <SimpleData name="cedula">6772628</SimpleData>
+            <SimpleData name="N">580.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NATIVIDAD ALEGRE RIQUELME</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">MBOI JAGUA - BARRIO PINDOTY</SimpleData>
+            <SimpleData name="TelÈfono">0985294133</SimpleData>
+            <SimpleData name="Vivienda_L">-24.12918320000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.59469280000</SimpleData>
+            <SimpleData name="Parcela_La">-24.13571624000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.59737070000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P2-P13X-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">580</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5970433996347,-24.134714600469,0
+                -55.597129000176,-24.1349361015454,0
+                -55.5969884602744,-24.1349678329489,0
+                -55.5970000997576,-24.1350593005103,0
+                -55.5971100999805,-24.1356609004344,0
+                -55.5968647996146,-24.1357759000737,0
+                -55.5970212000656,-24.1359472997723,0
+                -55.5972003999055,-24.1360917998347,0
+                -55.5972308004137,-24.1362817004208,0
+                -55.5972504003212,-24.1365663001721,0
+                -55.597206600174,-24.1366630999671,0
+                -55.5972278997884,-24.136794000444,0
+                -55.5978660996461,-24.1366692998563,0
+                -55.5977948999076,-24.1364680997358,0
+                -55.5976889997601,-24.1363490998378,0
+                -55.5976279995841,-24.1360062002474,0
+                -55.597566899653,-24.1355238996461,0
+                -55.5973973004293,-24.1352033997985,0
+                -55.5977288002311,-24.1350886004708,0
+                -55.5976640002917,-24.1347391000142,0
+                -55.5973244000226,-24.1347103999254,0
+                -55.5970433996347,-24.134714600469,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.46">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">7295040.00000000000</SimpleData>
+            <SimpleData name="cedula">7295040</SimpleData>
+            <SimpleData name="N">326.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">SUNI AVALOS MARTINEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">SAN ANTONIO</SimpleData>
+            <SimpleData name="TelÈfono">0986396487</SimpleData>
+            <SimpleData name="Vivienda_L">-24.06528580000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.74005530000</SimpleData>
+            <SimpleData name="Parcela_La">-24.06332300000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.73841475000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P14-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">326</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.737752400202,-24.063056600183,0
+                -55.7381692004062,-24.063865600008,0
+                -55.7385166999827,-24.063786700207,0
+                -55.738570000048,-24.0634950005562,0
+                -55.7390616996151,-24.0633916996163,0
+                -55.7389963999055,-24.0629470999371,0
+                -55.737752400202,-24.063056600183,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_VILLA_YGATIM__.47">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_VILLA_YGATIM__.schema">
+            <SimpleData name="CÈdula">4868639.00000000000</SimpleData>
+            <SimpleData name="cedula">4868639</SimpleData>
+            <SimpleData name="N">626.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MIRTHA OLIVEIRA VILLALBA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">VILLA YGATIM?</SimpleData>
+            <SimpleData name="Localidad">ITANARAM? - BARRIO  CENTRO</SimpleData>
+            <SimpleData name="TelÈfono">986563449</SimpleData>
+            <SimpleData name="Vivienda_L">-24.10635370000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.69399300000</SimpleData>
+            <SimpleData name="Parcela_La">-24.10635370000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.69399300000</SimpleData>
+            <SimpleData name="Grupo_de_p">H-P18-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Etapa_de_i">Plantaci?n</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">626</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.7216009997284,-24.0721072001301,0
+                -55.7226899994293,-24.0740000001091,0
+                -55.7229699994962,-24.0738917003518,0
+                -55.7219050001865,-24.0718566995696,0
+                -55.7216009997284,-24.0721072001301,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

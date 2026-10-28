@@ -1,0 +1,1280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+      <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="N" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="Cédula_Ti" type="string"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_de_p" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Cantidad_d" type="double"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
+    </Schema>
+    <Document id="Distrito_SANTA_ROSA_DEL_AGUARAY">
+      <name>Distrito_SANTA ROSA DEL AGUARAY</name>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">4238257.00000000000</SimpleData>
+            <SimpleData name="cedula">4238257</SimpleData>
+            <SimpleData name="N">116.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MIRIAN MENDOZA ACOSTA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">NARANJITO-RIO VERDE</SimpleData>
+            <SimpleData name="Teléfono">0986419496</SimpleData>
+            <SimpleData name="Vivienda_L">-23.79593020000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.24261060000</SimpleData>
+            <SimpleData name="Parcela_La">-23.79519607000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.24062040000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">116</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.2406204027127,-23.7951960696967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">1401695.00000000000</SimpleData>
+            <SimpleData name="cedula">1401695</SimpleData>
+            <SimpleData name="N">120.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">RAMONA BEATRIZ PEREIRA DE ESPINOLA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[KORORO'I]]></SimpleData>
+            <SimpleData name="Teléfono">0975960523</SimpleData>
+            <SimpleData name="Vivienda_L">-23.79171650000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.48139920000</SimpleData>
+            <SimpleData name="Parcela_La">-23.79142051000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.48347545000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">120</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.4834886030432,-23.7914268256934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">5851191.00000000000</SimpleData>
+            <SimpleData name="cedula">5851191</SimpleData>
+            <SimpleData name="N">124.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LIZ NOELIA VILLAVERDE OCAMPOS</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">SAN JUAN</SimpleData>
+            <SimpleData name="Teléfono">0984274145</SimpleData>
+            <SimpleData name="Vivienda_L">-23.84298520000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.27454050000</SimpleData>
+            <SimpleData name="Parcela_La">-23.78271107000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.23409760000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">124</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.2340976029361,-23.7827110691191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">6821465.00000000000</SimpleData>
+            <SimpleData name="cedula">6821465</SimpleData>
+            <SimpleData name="N">112.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">RUMILDA VERA MARTINEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">SI</SimpleData>
+            <SimpleData name="Titular_se">SADY DOMINGUEZ VERA</SimpleData>
+            <SimpleData name="Cédula_Ti">6777046</SimpleData>
+            <SimpleData name="Situación">se mud? a otra comunidad</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[KA'AGUY PYAHU]]></SimpleData>
+            <SimpleData name="Teléfono">984144683</SimpleData>
+            <SimpleData name="Vivienda_L">-23.82660290000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.25401530000</SimpleData>
+            <SimpleData name="Parcela_La">-23.83096324000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.24498333000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">112</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -56.2519096954956,-23.8270060676012,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -56.2449833305321,-23.8309632429606,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">5920173.00000000000</SimpleData>
+            <SimpleData name="cedula">5920173</SimpleData>
+            <SimpleData name="N">113.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CRISTIAN OSMAR MARTINEZ</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">NARANJITO-RIO VERDE</SimpleData>
+            <SimpleData name="Teléfono">0984550456</SimpleData>
+            <SimpleData name="Vivienda_L">-23.79590350000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.24256490000</SimpleData>
+            <SimpleData name="Parcela_La">-23.79884458000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.24821706000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">113</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.2482170571575,-23.7988445843277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">7357837.00000000000</SimpleData>
+            <SimpleData name="cedula">7357837</SimpleData>
+            <SimpleData name="N">101.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIA EUGENIA ESPINOLA MARTINEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">ASENT. TAVA GUARANI</SimpleData>
+            <SimpleData name="Teléfono">0976414910</SimpleData>
+            <SimpleData name="Vivienda_L">-23.75167770000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.99878060000</SimpleData>
+            <SimpleData name="Parcela_La">-23.72628831000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.00678224000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">101</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.0067822364065,-23.7262883090504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">7304556.00000000000</SimpleData>
+            <SimpleData name="cedula">7304556</SimpleData>
+            <SimpleData name="N">110.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LUIS PIRIS TAPARI</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[KA'AGUY PYAHU]]></SimpleData>
+            <SimpleData name="Teléfono">0984488517</SimpleData>
+            <SimpleData name="Vivienda_L">-23.82646710000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.25412120000</SimpleData>
+            <SimpleData name="Parcela_La">-23.83308402000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.24314641000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">110</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.243146405671,-23.8330840244351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">5138037.00000000000</SimpleData>
+            <SimpleData name="cedula">5138037</SimpleData>
+            <SimpleData name="N">109.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LUIS ALBERTO OTAZU OJEDA</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[KA'AGUY PYAHU]]></SimpleData>
+            <SimpleData name="Teléfono">0984955450</SimpleData>
+            <SimpleData name="Vivienda_L">-23.82656230000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.25407360000</SimpleData>
+            <SimpleData name="Parcela_La">-23.83122153000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.24895518000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">109</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.2489551806922,-23.8312215291635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">4436754.00000000000</SimpleData>
+            <SimpleData name="cedula">4436754</SimpleData>
+            <SimpleData name="N">103.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LUCIO TORRES BENITEZ</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[BLANCA'I]]></SimpleData>
+            <SimpleData name="Teléfono">0986712011</SimpleData>
+            <SimpleData name="Vivienda_L">-23.78499790000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.25981850000</SimpleData>
+            <SimpleData name="Parcela_La">-23.78670546000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.25952940000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">103</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.2595294012654,-23.786705463082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">5578142.00000000000</SimpleData>
+            <SimpleData name="cedula">5578142</SimpleData>
+            <SimpleData name="N">119.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">DAISY RAQUEL PERALTA MOREIRA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[KORORO'I]]></SimpleData>
+            <SimpleData name="Teléfono">0982024481</SimpleData>
+            <SimpleData name="Vivienda_L">-23.79731960000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.43384140000</SimpleData>
+            <SimpleData name="Parcela_La">-23.79946538000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.43666321000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">119</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.4366632041536,-23.7994653759795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">5851174.00000000000</SimpleData>
+            <SimpleData name="cedula">5851174</SimpleData>
+            <SimpleData name="N">123.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">BENJAMIN BRITOS TORRES</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">SAN JOSE</SimpleData>
+            <SimpleData name="Teléfono">0973629044</SimpleData>
+            <SimpleData name="Vivienda_L">-23.89705590000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.31530820000</SimpleData>
+            <SimpleData name="Parcela_La">-23.89943743000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.31501044000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">123</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.3150104397784,-23.8994374315214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">6209667.00000000000</SimpleData>
+            <SimpleData name="cedula">6209667</SimpleData>
+            <SimpleData name="N">121.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NANCY SOLEDAD MARTINEZ PRUDHOME</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">PEDRO GIMENEZ</SimpleData>
+            <SimpleData name="Teléfono">0975948440</SimpleData>
+            <SimpleData name="Vivienda_L">-23.82778590000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.33362220000</SimpleData>
+            <SimpleData name="Parcela_La">-23.82459884000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.33373194000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">121</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.3337319361893,-23.8245988384422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.13">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">6304894.00000000000</SimpleData>
+            <SimpleData name="cedula">6304894</SimpleData>
+            <SimpleData name="N">102.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARLEIDES CORONEL ZALAZAR</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">CAMBA YKUA</SimpleData>
+            <SimpleData name="Teléfono">0976264598</SimpleData>
+            <SimpleData name="Vivienda_L">-23.75036290000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.51329220000</SimpleData>
+            <SimpleData name="Parcela_La">-23.87664871000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.41677601000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">102</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.4167760149186,-23.8766487142115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.14">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">6594827.00000000000</SimpleData>
+            <SimpleData name="cedula">6594827</SimpleData>
+            <SimpleData name="N">95.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ANA MOREL GONZALEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 4</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">ASENT. JAGUARETE CALLE 1</SimpleData>
+            <SimpleData name="Teléfono">09828984972</SimpleData>
+            <SimpleData name="Vivienda_L">-23.80283390000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.07311530000</SimpleData>
+            <SimpleData name="Parcela_La">-23.80314897000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.07274828000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">95</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.0727482837987,-23.8031489732689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.15">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">6327860.00000000000</SimpleData>
+            <SimpleData name="cedula">6327860</SimpleData>
+            <SimpleData name="N">107.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CASTORINA ALFONZO AREM</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[KA'AGUY PYAHU]]></SimpleData>
+            <SimpleData name="Teléfono">0984914768</SimpleData>
+            <SimpleData name="Vivienda_L">-23.82755650000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.24966840000</SimpleData>
+            <SimpleData name="Parcela_La">-23.82789003000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.25004314000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">107</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.2500431407858,-23.8278900297291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.16">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">5839884.00000000000</SimpleData>
+            <SimpleData name="cedula">5839884</SimpleData>
+            <SimpleData name="N">99.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MIRIAN GRACIELA MARTINEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">ASENT. JAGUARETE FELIPE OSORIO N?CLEO 3</SimpleData>
+            <SimpleData name="Teléfono">0971546501</SimpleData>
+            <SimpleData name="Vivienda_L">-23.75332440000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.08460730000</SimpleData>
+            <SimpleData name="Parcela_La">-23.75103019000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.08863564000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">99</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.0886356413087,-23.7510301864422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.17">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">5851964.00000000000</SimpleData>
+            <SimpleData name="cedula">5851964</SimpleData>
+            <SimpleData name="N">118.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LORENA GONZALEZ MIRANDA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[KORORO'I]]></SimpleData>
+            <SimpleData name="Teléfono">0975639982</SimpleData>
+            <SimpleData name="Vivienda_L">-23.79224940000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.48139370000</SimpleData>
+            <SimpleData name="Parcela_La">-23.79182768000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.48360991000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">118</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.4836099101204,-23.7918276793099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.18">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">1529240.00000000000</SimpleData>
+            <SimpleData name="cedula">1529240</SimpleData>
+            <SimpleData name="N">106.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ELVA PIRIS TAPARI</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">ISLA POR?</SimpleData>
+            <SimpleData name="Teléfono">0983015403</SimpleData>
+            <SimpleData name="Vivienda_L">-23.81996890000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.24077050000</SimpleData>
+            <SimpleData name="Parcela_La">-23.82490152000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.24202441000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">106</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.2420244058889,-23.8249015173028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.19">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">6599428.00000000000</SimpleData>
+            <SimpleData name="cedula">6599428</SimpleData>
+            <SimpleData name="N">126.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ANA ELISA RAMIREZ CESPEDES</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">URBANO EL PROGRESO</SimpleData>
+            <SimpleData name="Teléfono">0981622027</SimpleData>
+            <SimpleData name="Vivienda_L">-23.81822480000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.50145810000</SimpleData>
+            <SimpleData name="Parcela_La">-23.87336530000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.40943494000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">3.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">126</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -56.4094349420182,-23.8733652968784,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -56.4087808513015,-23.8726491269717,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -56.406162350757,-23.8685835064397,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.20">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">6847369.00000000000</SimpleData>
+            <SimpleData name="cedula">6847369</SimpleData>
+            <SimpleData name="N">115.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">FIDELINO MENDOZA MARTINEZ</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">NARANJITO-RIO VERDE</SimpleData>
+            <SimpleData name="Teléfono">0986224351</SimpleData>
+            <SimpleData name="Vivienda_L">-23.79590000000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.24260670000</SimpleData>
+            <SimpleData name="Parcela_La">-23.79376222000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.24365651000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">115</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.2436565075198,-23.7937622198043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.21">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">6820780.00000000000</SimpleData>
+            <SimpleData name="cedula">6820780</SimpleData>
+            <SimpleData name="N">108.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">JORGE GARCETE GAUTO</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[KA'AGUY PYAHU]]></SimpleData>
+            <SimpleData name="Teléfono">0986789693</SimpleData>
+            <SimpleData name="Vivienda_L">-23.82665440000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.25412420000</SimpleData>
+            <SimpleData name="Parcela_La">-23.82765273000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.25337988000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">108</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.2533798778497,-23.827652728877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.22">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">7671837.00000000000</SimpleData>
+            <SimpleData name="cedula">7671837</SimpleData>
+            <SimpleData name="N">97.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">FERMINA COLMAN</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">ASENT. JAGUARETE FELIPE OSORIO N?CLEO 1</SimpleData>
+            <SimpleData name="Teléfono">0982387698</SimpleData>
+            <SimpleData name="Vivienda_L">-23.77381750000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.09264500000</SimpleData>
+            <SimpleData name="Parcela_La">-23.77820974000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.09175447000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">97</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.0917544695935,-23.7782097371637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.23">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">3245127.00000000000</SimpleData>
+            <SimpleData name="cedula">3245127</SimpleData>
+            <SimpleData name="N">125.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NELLY MERCEDES BAEZ AVALOS</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">STELLA MARIS</SimpleData>
+            <SimpleData name="Teléfono">0971416834</SimpleData>
+            <SimpleData name="Vivienda_L">-23.81697560000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.53690060000</SimpleData>
+            <SimpleData name="Parcela_La">-23.81927551000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.53932019000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">125</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.539320190163,-23.8192755132357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.24">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">6756111.00000000000</SimpleData>
+            <SimpleData name="cedula">6756111</SimpleData>
+            <SimpleData name="N">104.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CRISPIN PIRIS TAPARI</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">ISLA POR?</SimpleData>
+            <SimpleData name="Teléfono">0982876856</SimpleData>
+            <SimpleData name="Vivienda_L">-23.82262240000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.24221080000</SimpleData>
+            <SimpleData name="Parcela_La">-23.82332002000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.24184817000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">104</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.2418481657436,-23.8233200210928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.25">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">7575070.00000000000</SimpleData>
+            <SimpleData name="cedula">7575070</SimpleData>
+            <SimpleData name="N">122.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">PERLA TORRES FLORENTIN</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">PEDRO GIMENEZ</SimpleData>
+            <SimpleData name="Teléfono">0982175889</SimpleData>
+            <SimpleData name="Vivienda_L">-23.85128240000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.29802870000</SimpleData>
+            <SimpleData name="Parcela_La">-23.85098325000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.29630902000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">122</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.2963090170511,-23.8509832479255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.26">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">7350594.00000000000</SimpleData>
+            <SimpleData name="cedula">7350594</SimpleData>
+            <SimpleData name="N">117.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">FATIMA ROCIO VARGAS</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[KORORO'I]]></SimpleData>
+            <SimpleData name="Teléfono">0981433501</SimpleData>
+            <SimpleData name="Vivienda_L">-23.79243850000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.48167790000</SimpleData>
+            <SimpleData name="Parcela_La">-23.79111237000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.48541327000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">117</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.4854132665205,-23.7911123728645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.27">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">5775365.00000000000</SimpleData>
+            <SimpleData name="cedula">5775365</SimpleData>
+            <SimpleData name="N">93.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CARLOS ZARATE</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">3 DE FEBRERO</SimpleData>
+            <SimpleData name="Teléfono">0986716182</SimpleData>
+            <SimpleData name="Vivienda_L">-23.79916610000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.37988630000</SimpleData>
+            <SimpleData name="Parcela_La">-23.80078163000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.37978884000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">93</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.3797888369064,-23.8007816264581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.28">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">6081990.00000000000</SimpleData>
+            <SimpleData name="cedula">6081990</SimpleData>
+            <SimpleData name="N">94.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ESTELA NU?EZ COLMAN</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">ASENT. AGUERITO</SimpleData>
+            <SimpleData name="Teléfono">0975598090</SimpleData>
+            <SimpleData name="Vivienda_L">-23.72854060000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.03800070000</SimpleData>
+            <SimpleData name="Parcela_La">-23.70980529000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.06114656000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">94</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.0611465543533,-23.7098052918965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.29">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">7110791.00000000000</SimpleData>
+            <SimpleData name="cedula">7110791</SimpleData>
+            <SimpleData name="N">96.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">RUTH ALEJANDRA GILL ARCE</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 4</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">ASENT. JAGUARETE FELIPE OSORIO N?CLEO 1</SimpleData>
+            <SimpleData name="Teléfono">0982364522</SimpleData>
+            <SimpleData name="Vivienda_L">-23.77004330000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.08999170000</SimpleData>
+            <SimpleData name="Parcela_La">-23.77046889000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.08879663000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">96</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.0887966276586,-23.7704688931584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.30">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">6150193.00000000000</SimpleData>
+            <SimpleData name="cedula">6150193</SimpleData>
+            <SimpleData name="N">98.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LIZ NOELIA GARAY AG?ERO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">ASENT. JAGUARETE FELIPE OSORIO N?CLEO 2</SimpleData>
+            <SimpleData name="Teléfono">0984076104</SimpleData>
+            <SimpleData name="Vivienda_L">-23.75773820000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.10791790000</SimpleData>
+            <SimpleData name="Parcela_La">-23.76015942000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.11152321000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">98</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.1115232057737,-23.7601594152302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.31">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">5886068.00000000000</SimpleData>
+            <SimpleData name="cedula">5886068</SimpleData>
+            <SimpleData name="N">100.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">AMAMBAY YSAPY ALEGRE DIAZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">ASENT. JAGUARETE FOREST/MARIA AUXILIADORA</SimpleData>
+            <SimpleData name="Teléfono">0983045855</SimpleData>
+            <SimpleData name="Vivienda_L">-23.79258840000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.09052590000</SimpleData>
+            <SimpleData name="Parcela_La">-23.78284356000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.09820372000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">100</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.0982037151185,-23.7828435560158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.32">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">7360653.00000000000</SimpleData>
+            <SimpleData name="cedula">7360653</SimpleData>
+            <SimpleData name="N">114.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">GERONIMA MARTINEZ FERNANDEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">NARANJITO-RIO VERDE</SimpleData>
+            <SimpleData name="Teléfono">ND</SimpleData>
+            <SimpleData name="Vivienda_L">-23.79582970000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.24265760000</SimpleData>
+            <SimpleData name="Parcela_La">-23.80158561000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.25589528000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">114</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.2558952803215,-23.8015856047515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.33">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">2631482.00000000000</SimpleData>
+            <SimpleData name="cedula">2631482</SimpleData>
+            <SimpleData name="N">111.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIANO PEREIRA VILLALBA</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[KA'AGUY PYAHU]]></SimpleData>
+            <SimpleData name="Teléfono">0983211593</SimpleData>
+            <SimpleData name="Vivienda_L">-23.82867450000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.24701080000</SimpleData>
+            <SimpleData name="Parcela_La">-23.83139529000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.24693126000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">111</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.2469312591073,-23.831395292659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.34">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">5962902.00000000000</SimpleData>
+            <SimpleData name="cedula">5962902</SimpleData>
+            <SimpleData name="N">105.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">TOMASA TORALES</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">ISLA POR?</SimpleData>
+            <SimpleData name="Teléfono">0982876856</SimpleData>
+            <SimpleData name="Vivienda_L">-23.81999490000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.24068660000</SimpleData>
+            <SimpleData name="Parcela_La">-23.82320798000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.24093178000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">105</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.2409317801876,-23.8232079809369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

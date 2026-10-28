@@ -1,0 +1,2159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+      <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="N" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="Cédula_Ti" type="string"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_de_p" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Cantidad_d" type="double"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
+    </Schema>
+    <Document id="Distrito_SANTA_ROSA_DEL_AGUARAY">
+      <name>Distrito_SANTA ROSA DEL AGUARAY</name>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">5578142.00000000000</SimpleData>
+            <SimpleData name="cedula">5578142</SimpleData>
+            <SimpleData name="N">119.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">DAISY RAQUEL PERALTA MOREIRA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[KORORO'I]]></SimpleData>
+            <SimpleData name="Teléfono">0982024481</SimpleData>
+            <SimpleData name="Vivienda_L">-23.79731960000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.43384140000</SimpleData>
+            <SimpleData name="Parcela_La">-23.79946538000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.43666321000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">119</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4358003998701,-23.7988200005163,0
+                -56.4371966998585,-23.8003699997483,0
+                -56.4375183000211,-23.8000999996866,0
+                -56.436137300417,-23.7985689004344,0
+                -56.4358003998701,-23.7988200005163,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">6150193.00000000000</SimpleData>
+            <SimpleData name="cedula">6150193</SimpleData>
+            <SimpleData name="N">98.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LIZ NOELIA GARAY AG?ERO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">ASENT. JAGUARETE FELIPE OSORIO N?CLEO 2</SimpleData>
+            <SimpleData name="Teléfono">0984076104</SimpleData>
+            <SimpleData name="Vivienda_L">-23.75773820000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.10791790000</SimpleData>
+            <SimpleData name="Parcela_La">-23.76015942000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.11152321000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">98</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.1106977995704,-23.759885600028,0
+                -56.1119364002571,-23.7608008999025,0
+                -56.1123423999122,-23.7603398000107,0
+                -56.111333300194,-23.7597333999758,0
+                -56.1109841999903,-23.7595356003681,0
+                -56.1106977995704,-23.759885600028,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">7671837.00000000000</SimpleData>
+            <SimpleData name="cedula">7671837</SimpleData>
+            <SimpleData name="N">97.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">FERMINA COLMAN</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">ASENT. JAGUARETE FELIPE OSORIO N?CLEO 1</SimpleData>
+            <SimpleData name="Teléfono">0982387698</SimpleData>
+            <SimpleData name="Vivienda_L">-23.77381750000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.09264500000</SimpleData>
+            <SimpleData name="Parcela_La">-23.77820974000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.09175447000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">97</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.09122395958,-23.778556399871,0
+                -56.0920876996302,-23.7787120004252,0
+                -56.0922943997156,-23.7778331999289,0
+                -56.0914330002934,-23.7777421004111,0
+                -56.0913440997795,-23.7779130003892,0
+                -56.09122395958,-23.778556399871,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">6304894.00000000000</SimpleData>
+            <SimpleData name="cedula">6304894</SimpleData>
+            <SimpleData name="N">102.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARLEIDES CORONEL ZALAZAR</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">CAMBA YKUA</SimpleData>
+            <SimpleData name="Teléfono">0976264598</SimpleData>
+            <SimpleData name="Vivienda_L">-23.75036290000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.51329220000</SimpleData>
+            <SimpleData name="Parcela_La">-23.87664871000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.41677601000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">102</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.416075299769,-23.8764396997372,0
+                -56.4166180998907,-23.877225099765,0
+                -56.4174542997921,-23.8768566999142,0
+                -56.4174631995074,-23.8768159002981,0
+                -56.4169289997182,-23.8760787997557,0
+                -56.416075299769,-23.8764396997372,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">5839884.00000000000</SimpleData>
+            <SimpleData name="cedula">5839884</SimpleData>
+            <SimpleData name="N">99.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MIRIAN GRACIELA MARTINEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">ASENT. JAGUARETE FELIPE OSORIO N?CLEO 3</SimpleData>
+            <SimpleData name="Teléfono">0971546501</SimpleData>
+            <SimpleData name="Vivienda_L">-23.75332440000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.08460730000</SimpleData>
+            <SimpleData name="Parcela_La">-23.75103019000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.08863564000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">99</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.0878921001562,-23.7510623000586,0
+                -56.0882371001518,-23.7515746002664,0
+                -56.0893599998778,-23.7510167003218,0
+                -56.0890520001541,-23.7504762002445,0
+                -56.0878921001562,-23.7510623000586,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">7357837.00000000000</SimpleData>
+            <SimpleData name="cedula">7357837</SimpleData>
+            <SimpleData name="N">101.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIA EUGENIA ESPINOLA MARTINEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">ASENT. TAVA GUARANI</SimpleData>
+            <SimpleData name="Teléfono">0976414910</SimpleData>
+            <SimpleData name="Vivienda_L">-23.75167770000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.99878060000</SimpleData>
+            <SimpleData name="Parcela_La">-23.72628831000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.00678224000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">101</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.006434000341,-23.7269137003179,0
+                -56.0070967002182,-23.7270966998285,0
+                -56.0071171995682,-23.7256513002155,0
+                -56.0070901997338,-23.7256085000265,0
+                -56.0064037004661,-23.7255571001801,0
+                -56.0064781003122,-23.7262920004451,0
+                -56.006434000341,-23.7269137003179,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">5962902.00000000000</SimpleData>
+            <SimpleData name="cedula">5962902</SimpleData>
+            <SimpleData name="N">105.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">TOMASA TORALES</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">ISLA POR?</SimpleData>
+            <SimpleData name="Teléfono">0982876856</SimpleData>
+            <SimpleData name="Vivienda_L">-23.81999490000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.24068660000</SimpleData>
+            <SimpleData name="Parcela_La">-23.82320798000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.24093178000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">105</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2403049308076,-23.8232955397301,0
+                -56.2403172313286,-23.8233635405247,0
+                -56.2403325311515,-23.82343914023,0
+                -56.2403627310458,-23.8234765404272,0
+                -56.2404063306043,-23.8235260399103,0
+                -56.2404208304385,-23.8235466400795,0
+                -56.2404298309118,-23.8235757402258,0
+                -56.2404945304413,-23.8235941400259,0
+                -56.2406270313556,-23.8235998397303,0
+                -56.2407335305213,-23.8235868397673,0
+                -56.2407835306726,-23.8235897404763,0
+                -56.2408499309193,-23.8235166403214,0
+                -56.240892430463,-23.823490639733,0
+                -56.240957330726,-23.8234615403584,0
+                -56.2410136309916,-23.8234438403057,0
+                -56.2410439304159,-23.8234280399212,0
+                -56.2411089310408,-23.8234105398159,0
+                -56.2411670309109,-23.8233933399024,0
+                -56.2411980308958,-23.8233774399705,0
+                -56.2412599311991,-23.823341839852,0
+                -56.2412955311203,-23.8233917404833,0
+                -56.2413170310389,-23.8234461400904,0
+                -56.24131583112,-23.8234951397857,0
+                -56.2413528310076,-23.823551140252,0
+                -56.241544130667,-23.8235849396804,0
+                -56.241565982456,-23.8235691960853,0
+                -56.2415663697139,-23.8235682767304,0
+                -56.2415658052503,-23.823566914644,0
+                -56.2415647643827,-23.8235655935675,0
+                -56.2415619361004,-23.8235682549211,0
+                -56.2415593328228,-23.8235683523052,0
+                -56.2415570545478,-23.8235665861885,0
+                -56.2415570688215,-23.8235641304692,0
+                -56.2415541317325,-23.8235444660921,0
+                -56.241551235434,-23.8235177840837,0
+                -56.2415560652711,-23.8234742981878,0
+                -56.2415533304026,-23.823384540483,0
+                -56.2415309541862,-23.8233324153591,0
+                -56.2415250718618,-23.8232944910326,0
+                -56.2415100846175,-23.8232480996136,0
+                -56.2414971310398,-23.8231788402457,0
+                -56.2414801754226,-23.8231440894642,0
+                -56.2414652453157,-23.82308787426,0
+                -56.2414472394622,-23.8230358537184,0
+                -56.2414428909753,-23.8229965333677,0
+                -56.2414314306688,-23.8229237399087,0
+                -56.2414138304266,-23.8228644397928,0
+                -56.2413981507274,-23.8228194656826,0
+                -56.2413784309695,-23.8227699403591,0
+                -56.2413189310375,-23.822744140442,0
+                -56.2412922313325,-23.8227384399564,0
+                -56.2412090312592,-23.8227457402097,0
+                -56.2411569307892,-23.82278953989,0
+                -56.2411471306809,-23.8228079403367,0
+                -56.2410982311116,-23.822827540165,0
+                -56.2410334312047,-23.8228443403811,0
+                -56.2410023309177,-23.8228486400449,0
+                -56.2409230306347,-23.8228859400221,0
+                -56.2408294312648,-23.8229150398872,0
+                -56.2407579310014,-23.8229287397416,0
+                -56.2406794308589,-23.8229648404739,0
+                -56.2406524309231,-23.8229675399261,0
+                -56.2405804304451,-23.8230027405189,0
+                -56.2405295311252,-23.8230069398575,0
+                -56.2404902309538,-23.8230112396701,0
+                -56.2403984312288,-23.8230379402144,0
+                -56.2403347309101,-23.823054540524,0
+                -56.240291430772,-23.8230563404022,0
+                -56.2402453305556,-23.8231006398936,0
+                -56.2402701308841,-23.8231629398972,0
+                -56.2402751307886,-23.8231842402122,0
+                -56.2402789304925,-23.82320443994,0
+                -56.2402915313094,-23.8232736398542,0
+                -56.2403049308076,-23.8232955397301,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">3245127.00000000000</SimpleData>
+            <SimpleData name="cedula">3245127</SimpleData>
+            <SimpleData name="N">125.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NELLY MERCEDES BAEZ AVALOS</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">STELLA MARIS</SimpleData>
+            <SimpleData name="Teléfono">0971416834</SimpleData>
+            <SimpleData name="Vivienda_L">-23.81697560000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.53690060000</SimpleData>
+            <SimpleData name="Parcela_La">-23.81927551000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.53932019000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">125</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.5386287001198,-23.8194215002909,0
+                -56.53933539971,-23.819973100338,0
+                -56.540027599999,-23.8191638996518,0
+                -56.5392755002528,-23.8185647005475,0
+                -56.5386287001198,-23.8194215002909,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">5920173.00000000000</SimpleData>
+            <SimpleData name="cedula">5920173</SimpleData>
+            <SimpleData name="N">113.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CRISTIAN OSMAR MARTINEZ</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">NARANJITO-RIO VERDE</SimpleData>
+            <SimpleData name="Teléfono">0984550456</SimpleData>
+            <SimpleData name="Vivienda_L">-23.79590350000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.24256490000</SimpleData>
+            <SimpleData name="Parcela_La">-23.79884458000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.24821706000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">113</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2473752996208,-23.7991534000258,0
+                -56.248386099863,-23.7992076001574,0
+                -56.2483987999756,-23.7989119002648,0
+                -56.2494128003864,-23.798846600541,0
+                -56.2493302000597,-23.7986547004914,0
+                -56.2488813997526,-23.7985854999678,0
+                -56.2474867004338,-23.798596200481,0
+                -56.2473752996208,-23.7991534000258,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">6847369.00000000000</SimpleData>
+            <SimpleData name="cedula">6847369</SimpleData>
+            <SimpleData name="N">115.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">FIDELINO MENDOZA MARTINEZ</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">NARANJITO-RIO VERDE</SimpleData>
+            <SimpleData name="Teléfono">0986224351</SimpleData>
+            <SimpleData name="Vivienda_L">-23.79590000000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.24260670000</SimpleData>
+            <SimpleData name="Parcela_La">-23.79376222000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.24365651000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">115</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2429018999712,-23.7934431003632,0
+                -56.2430196000882,-23.794301899675,0
+                -56.2444685002,-23.7939755999574,0
+                -56.2443511995111,-23.7933047999932,0
+                -56.2429018999712,-23.7934431003632,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">5851174.00000000000</SimpleData>
+            <SimpleData name="cedula">5851174</SimpleData>
+            <SimpleData name="N">123.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">BENJAMIN BRITOS TORRES</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">SAN JOSE</SimpleData>
+            <SimpleData name="Teléfono">0973629044</SimpleData>
+            <SimpleData name="Vivienda_L">-23.89705590000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.31530820000</SimpleData>
+            <SimpleData name="Parcela_La">-23.89943743000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.31501044000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">123</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.3146311998449,-23.9016471000664,0
+                -56.3148476995659,-23.9016529003818,0
+                -56.3149291002605,-23.9010776999449,0
+                -56.3152307003709,-23.8987687997719,0
+                -56.315402899643,-23.8974421996892,0
+                -56.315101100311,-23.8974406999734,0
+                -56.3146311998449,-23.9016471000664,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">7575070.00000000000</SimpleData>
+            <SimpleData name="cedula">7575070</SimpleData>
+            <SimpleData name="N">122.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">PERLA TORRES FLORENTIN</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">PEDRO GIMENEZ</SimpleData>
+            <SimpleData name="Teléfono">0982175889</SimpleData>
+            <SimpleData name="Vivienda_L">-23.85128240000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.29802870000</SimpleData>
+            <SimpleData name="Parcela_La">-23.85098325000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.29630902000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">122</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2957039718876,-23.8511957268895,0
+                -56.2971287722708,-23.8512437264795,0
+                -56.2971969716534,-23.8508658261333,0
+                -56.2955405721817,-23.8506621260326,0
+                -56.2955118722244,-23.8510881263897,0
+                -56.2957039718876,-23.8511957268895,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.13">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">5775365.00000000000</SimpleData>
+            <SimpleData name="cedula">5775365</SimpleData>
+            <SimpleData name="N">93.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CARLOS ZARATE</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">3 DE FEBRERO</SimpleData>
+            <SimpleData name="Teléfono">0986716182</SimpleData>
+            <SimpleData name="Vivienda_L">-23.79916610000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.37988630000</SimpleData>
+            <SimpleData name="Parcela_La">-23.80078163000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.37978884000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">93</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.3794766999108,-23.7998483005064,0
+                -56.3797090001994,-23.8017263003883,0
+                -56.3801135003143,-23.8017123004034,0
+                -56.3798485998829,-23.7998011005487,0
+                -56.3796867001055,-23.7998146004659,0
+                -56.3794766999108,-23.7998483005064,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.14">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">5851191.00000000000</SimpleData>
+            <SimpleData name="cedula">5851191</SimpleData>
+            <SimpleData name="N">124.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LIZ NOELIA VILLAVERDE OCAMPOS</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">SAN JUAN</SimpleData>
+            <SimpleData name="Teléfono">0984274145</SimpleData>
+            <SimpleData name="Vivienda_L">-23.84298520000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.27454050000</SimpleData>
+            <SimpleData name="Parcela_La">-23.78271107000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.23409760000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">124</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2333979996243,-23.7828504002206,0
+                -56.2343844997262,-23.7832447001907,0
+                -56.2347684996165,-23.782527600325,0
+                -56.2338323000556,-23.7821977997877,0
+                -56.2333979996243,-23.7828504002206,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.15">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">6327860.00000000000</SimpleData>
+            <SimpleData name="cedula">6327860</SimpleData>
+            <SimpleData name="N">107.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CASTORINA ALFONZO AREM</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[KA'AGUY PYAHU]]></SimpleData>
+            <SimpleData name="Teléfono">0984914768</SimpleData>
+            <SimpleData name="Vivienda_L">-23.82755650000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.24966840000</SimpleData>
+            <SimpleData name="Parcela_La">-23.82789003000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.25004314000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">107</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2496175536934,-23.8277847851552,0
+                -56.2498075535186,-23.8285480853762,0
+                -56.2505102543195,-23.8283380852671,0
+                -56.2502853540525,-23.8272381852779,0
+                -56.2496858540895,-23.8273647852757,0
+                -56.2496175536934,-23.8277847851552,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.16">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">7350594.00000000000</SimpleData>
+            <SimpleData name="cedula">7350594</SimpleData>
+            <SimpleData name="N">117.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">FATIMA ROCIO VARGAS</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[KORORO'I]]></SimpleData>
+            <SimpleData name="Teléfono">0981433501</SimpleData>
+            <SimpleData name="Vivienda_L">-23.79243850000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.48167790000</SimpleData>
+            <SimpleData name="Parcela_La">-23.79111237000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.48541327000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">117</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4844127335178,-23.7914418284304,0
+                -56.4844265000108,-23.7915155001816,0
+                -56.4844695447268,-23.7915076142617,0
+                -56.4865296000055,-23.7911302000227,0
+                -56.4863876998726,-23.7907206005098,0
+                -56.4843437003436,-23.7910724004592,0
+                -56.4844127335178,-23.7914418284304,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.17">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">6599428.00000000000</SimpleData>
+            <SimpleData name="cedula">6599428</SimpleData>
+            <SimpleData name="N">126.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ANA ELISA RAMIREZ CESPEDES</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">URBANO EL PROGRESO</SimpleData>
+            <SimpleData name="Teléfono">0981622027</SimpleData>
+            <SimpleData name="Vivienda_L">-23.81822480000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.50145810000</SimpleData>
+            <SimpleData name="Parcela_La">-23.87336530000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.40943494000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">3.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">126</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.4095561997798,-23.8737858000683,0
+                  -56.4096405996507,-23.8737847996556,0
+                  -56.4097139997898,-23.8737819000163,0
+                  -56.4098833995418,-23.8735769000307,0
+                  -56.409684100032,-23.873329000156,0
+                  -56.4094888997185,-23.87309760026,0
+                  -56.4093619995053,-23.8729401000926,0
+                  -56.4092675998189,-23.8728311005348,0
+                  -56.4092433995331,-23.8728155997885,0
+                  -56.4090310995026,-23.873238400045,0
+                  -56.4092198997825,-23.8734764000975,0
+                  -56.4093223998217,-23.8736179003025,0
+                  -56.4094228002011,-23.8737280003775,0
+                  -56.4094606000115,-23.8737486997644,0
+                  -56.4095561997798,-23.8737858000683,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.4090590997886,-23.8728281000966,0
+                  -56.408628799503,-23.8723260000652,0
+                  -56.4085153002233,-23.8724553003882,0
+                  -56.408887199798,-23.8729527001792,0
+                  -56.4090590997886,-23.8728281000966,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.4065661004777,-23.8685987001723,0
+                  -56.4060819996285,-23.8681471001738,0
+                  -56.4057472002645,-23.868502300471,0
+                  -56.4062474004424,-23.8690528002054,0
+                  -56.4065661004777,-23.8685987001723,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.18">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">6594827.00000000000</SimpleData>
+            <SimpleData name="cedula">6594827</SimpleData>
+            <SimpleData name="N">95.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ANA MOREL GONZALEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 4</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">ASENT. JAGUARETE CALLE 1</SimpleData>
+            <SimpleData name="Teléfono">09828984972</SimpleData>
+            <SimpleData name="Vivienda_L">-23.80283390000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.07311530000</SimpleData>
+            <SimpleData name="Parcela_La">-23.80314897000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.07274828000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">95</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.0722495996983,-23.8035315003574,0
+                -56.0733615998181,-23.8035972996559,0
+                -56.073134000472,-23.8027468002149,0
+                -56.0722578002687,-23.8026516004664,0
+                -56.0722495996983,-23.8035315003574,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.19">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">6209667.00000000000</SimpleData>
+            <SimpleData name="cedula">6209667</SimpleData>
+            <SimpleData name="N">121.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NANCY SOLEDAD MARTINEZ PRUDHOME</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">PEDRO GIMENEZ</SimpleData>
+            <SimpleData name="Teléfono">0975948440</SimpleData>
+            <SimpleData name="Vivienda_L">-23.82778590000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.33362220000</SimpleData>
+            <SimpleData name="Parcela_La">-23.82459884000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.33373194000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">121</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.3335947996603,-23.8254958004838,0
+                -56.3339266996354,-23.8255200000863,0
+                -56.3339598999274,-23.8237049997719,0
+                -56.333528300454,-23.8237077998203,0
+                -56.3335082998439,-23.8254399000627,0
+                -56.3335947996603,-23.8254958004838,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.20">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">5851964.00000000000</SimpleData>
+            <SimpleData name="cedula">5851964</SimpleData>
+            <SimpleData name="N">118.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LORENA GONZALEZ MIRANDA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[KORORO'I]]></SimpleData>
+            <SimpleData name="Teléfono">0975639982</SimpleData>
+            <SimpleData name="Vivienda_L">-23.79224940000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.48139370000</SimpleData>
+            <SimpleData name="Parcela_La">-23.79182768000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.48360991000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">118</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4844695447268,-23.7915076142617,0
+                -56.4844265000108,-23.7915155001816,0
+                -56.4844127335178,-23.7914418284304,0
+                -56.4826686001151,-23.7917751003306,0
+                -56.482787699578,-23.7922191001669,0
+                -56.4845492004682,-23.7918776999647,0
+                -56.4844695447268,-23.7915076142617,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.21">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">7110791.00000000000</SimpleData>
+            <SimpleData name="cedula">7110791</SimpleData>
+            <SimpleData name="N">96.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">RUTH ALEJANDRA GILL ARCE</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 4</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">ASENT. JAGUARETE FELIPE OSORIO N?CLEO 1</SimpleData>
+            <SimpleData name="Teléfono">0982364522</SimpleData>
+            <SimpleData name="Vivienda_L">-23.77004330000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.08999170000</SimpleData>
+            <SimpleData name="Parcela_La">-23.77046889000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.08879663000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">96</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.0881328995611,-23.77028089981,0
+                -56.0884052995086,-23.7709620003597,0
+                -56.0895254999747,-23.7704373004046,0
+                -56.089415600005,-23.7701148003825,0
+                -56.0881328995611,-23.77028089981,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.22">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">2631482.00000000000</SimpleData>
+            <SimpleData name="cedula">2631482</SimpleData>
+            <SimpleData name="N">111.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIANO PEREIRA VILLALBA</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[KA'AGUY PYAHU]]></SimpleData>
+            <SimpleData name="Teléfono">0983211593</SimpleData>
+            <SimpleData name="Vivienda_L">-23.82867450000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.24701080000</SimpleData>
+            <SimpleData name="Parcela_La">-23.83139529000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.24693126000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">111</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2470497127025,-23.8316223235043,0
+                -56.2470709725603,-23.8316194422902,0
+                -56.2470889730061,-23.8316265417227,0
+                -56.2471399731009,-23.8316566423459,0
+                -56.2471607731718,-23.8316849417059,0
+                -56.2472051732285,-23.8317453420948,0
+                -56.2472311729238,-23.8318058422834,0
+                -56.2472510729823,-23.831836641798,0
+                -56.247304472615,-23.8318926423852,0
+                -56.2473714733855,-23.8319480419039,0
+                -56.2473939733601,-23.8319766421689,0
+                -56.2474314727762,-23.8319964417659,0
+                -56.2474992732362,-23.8319549421686,0
+                -56.2475494734383,-23.8319295418923,0
+                -56.2476180732465,-23.8318912425528,0
+                -56.2476578726419,-23.8318527420999,0
+                -56.2476483729087,-23.8318291421937,0
+                -56.2476097726315,-23.8317627423095,0
+                -56.2475813728867,-23.8317082421368,0
+                -56.2475731727518,-23.8316862418071,0
+                -56.2475306734853,-23.8316314424847,0
+                -56.2474918727226,-23.8315802423779,0
+                -56.2474774731154,-23.8315572417458,0
+                -56.2474409733417,-23.8315100422756,0
+                -56.2473984732595,-23.8314637419861,0
+                -56.247382073073,-23.831439141953,0
+                -56.2473388735134,-23.831395641752,0
+                -56.2472839728157,-23.8313510421128,0
+                -56.247260172842,-23.8313243421301,0
+                -56.2472109731493,-23.8312827418195,0
+                -56.2471678729804,-23.831255042564,0
+                -56.2471494726374,-23.8312352422558,0
+                -56.2470988733621,-23.8311925422079,0
+                -56.2470552725489,-23.8311403421945,0
+                -56.2470260726481,-23.8311163425478,0
+                -56.2469724727421,-23.8310602424408,0
+                -56.2469105734812,-23.8310267421769,0
+                -56.2468820729288,-23.8309996425397,0
+                -56.2468151730014,-23.8309459422196,0
+                -56.2467471733526,-23.8308929418932,0
+                -56.2467091733801,-23.8308643425627,0
+                -56.2466517733042,-23.8308124417005,0
+                -56.2466303726505,-23.8307931423936,0
+                -56.2465398734359,-23.8307411420407,0
+                -56.2464889727967,-23.8307933418096,0
+                -56.246465472935,-23.8308267418178,0
+                -56.2464088730369,-23.8308858421121,0
+                -56.2463679727232,-23.8309189420753,0
+                -56.2463474730921,-23.8309486418884,0
+                -56.246402373308,-23.8310158425169,0
+                -56.2464672732637,-23.8310693417588,0
+                -56.2464989728091,-23.8310967425183,0
+                -56.2465175725905,-23.831170041964,0
+                -56.2464600731392,-23.8312269422061,0
+                -56.2464271729109,-23.8312576417587,0
+                -56.2463706731771,-23.8313187421964,0
+                -56.2463266398352,-23.8313475619363,0
+                -56.2463492728899,-23.8313532417011,0
+                -56.2464069732381,-23.8314009424767,0
+                -56.2464321734952,-23.8314340422521,0
+                -56.2464990728134,-23.8314902418763,0
+                -56.246558473131,-23.8315574418687,0
+                -56.24658907257,-23.8315832421901,0
+                -56.2466448732381,-23.8316241424658,0
+                -56.2466951728376,-23.8316784418412,0
+                -56.2467286732821,-23.8316990421644,0
+                -56.2467846731347,-23.8317447420427,0
+                -56.2468459727984,-23.8317850423004,0
+                -56.2468730727396,-23.8318015424229,0
+                -56.2469155731041,-23.8317673419285,0
+                -56.2469569734335,-23.8317119425611,0
+                -56.2469833731273,-23.8316968418454,0
+                -56.246982373258,-23.8316972424957,0
+                -56.2469830726749,-23.8316951423697,0
+                -56.2469992735016,-23.8316748418055,0
+                -56.2470312731707,-23.8316409422264,0
+                -56.2470475731164,-23.8316303424627,0
+                -56.2470501727419,-23.831624441939,0
+                -56.2470497127025,-23.8316223235043,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+          <innerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2470497127025,-23.8316223235043,0
+                -56.2470495731748,-23.8316223417898,0
+                -56.2470496734959,-23.8316221417704,0
+                -56.2470497127025,-23.8316223235043,0
+              </coordinates>
+            </LinearRing>
+          </innerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.23">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">6756111.00000000000</SimpleData>
+            <SimpleData name="cedula">6756111</SimpleData>
+            <SimpleData name="N">104.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CRISPIN PIRIS TAPARI</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">ISLA POR?</SimpleData>
+            <SimpleData name="Teléfono">0982876856</SimpleData>
+            <SimpleData name="Vivienda_L">-23.82262240000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.24221080000</SimpleData>
+            <SimpleData name="Parcela_La">-23.82332002000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.24184817000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">104</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.241522902311,-23.8226983836973,0
+                -56.2414585025155,-23.822717984164,0
+                -56.2413913029243,-23.8227687834731,0
+                -56.2414019939514,-23.8228014712519,0
+                -56.2414277743208,-23.82289388123,0
+                -56.2414498864098,-23.8229613612069,0
+                -56.241454799014,-23.8230183165234,0
+                -56.2414787850666,-23.8230914199809,0
+                -56.2414966767277,-23.8231630889839,0
+                -56.2415192269272,-23.8232207452373,0
+                -56.2415280871119,-23.8232713172142,0
+                -56.2415504343981,-23.8233520653771,0
+                -56.2415669717942,-23.823394252815,0
+                -56.2415719030566,-23.8234611840162,0
+                -56.2415653024607,-23.8235204833874,0
+                -56.241564703076,-23.8235617835858,0
+                -56.2416017027697,-23.823643684038,0
+                -56.2416575023615,-23.8237183836434,0
+                -56.2417667022257,-23.8237224838127,0
+                -56.2418187026437,-23.8237337838107,0
+                -56.2418612026143,-23.8237169838121,0
+                -56.2418811024617,-23.8237610835592,0
+                -56.241884302394,-23.8238108834503,0
+                -56.2418822027511,-23.8238425834303,0
+                -56.2419029025949,-23.823940283654,0
+                -56.2419274024037,-23.8240309838232,0
+                -56.241929302996,-23.824043683973,0
+                -56.2419426022172,-23.8241200838628,0
+                -56.2419824030817,-23.8241335836224,0
+                -56.2420143024606,-23.8241247834579,0
+                -56.2420782027412,-23.8241432834436,0
+                -56.2421709025052,-23.8241315839031,0
+                -56.2422057023533,-23.8241142835276,0
+                -56.2422566028257,-23.8240321839063,0
+                -56.2422393030648,-23.823944384109,0
+                -56.2422162028938,-23.8238325840779,0
+                -56.2422100031718,-23.8237814841996,0
+                -56.2421981031764,-23.8237134837009,0
+                -56.2421749027923,-23.8235668839328,0
+                -56.2421561028189,-23.8234961841842,0
+                -56.2421166026849,-23.8234033835392,0
+                -56.2421473028285,-23.8233626837918,0
+                -56.2421049023921,-23.8231799837271,0
+                -56.2420702023899,-23.8230881839222,0
+                -56.2420499025307,-23.8229763840777,0
+                -56.242014702581,-23.8228783840712,0
+                -56.2420057023446,-23.8228295834985,0
+                -56.2420015027326,-23.8228061836241,0
+                -56.2419935025331,-23.8227932836858,0
+                -56.2419932026458,-23.822804684158,0
+                -56.241978502853,-23.8227540834928,0
+                -56.2419669024583,-23.8227024837747,0
+                -56.2419478023357,-23.8227118833641,0
+                -56.2419527023014,-23.8226770838289,0
+                -56.2419457025525,-23.8226521835254,0
+                -56.241852102788,-23.8226254836661,0
+                -56.2417769028965,-23.8226250840788,0
+                -56.2417137026357,-23.8226313837661,0
+                -56.2416794030194,-23.8226408837907,0
+                -56.2416219027284,-23.8226642836839,0
+                -56.2415563029559,-23.822692884057,0
+                -56.241522902311,-23.8226983836973,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.24">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">5138037.00000000000</SimpleData>
+            <SimpleData name="cedula">5138037</SimpleData>
+            <SimpleData name="N">109.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LUIS ALBERTO OTAZU OJEDA</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[KA'AGUY PYAHU]]></SimpleData>
+            <SimpleData name="Teléfono">0984955450</SimpleData>
+            <SimpleData name="Vivienda_L">-23.82656230000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.25407360000</SimpleData>
+            <SimpleData name="Parcela_La">-23.83122153000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.24895518000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">109</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2482134807653,-23.83127219794,0
+                -56.2487635809908,-23.8318581981479,0
+                -56.2493538812355,-23.8313841972811,0
+                -56.2496736809905,-23.8310637973979,0
+                -56.249690280746,-23.8309813974234,0
+                -56.2493141812182,-23.8307266975726,0
+                -56.2489295812917,-23.8307613981423,0
+                -56.2488477808585,-23.830802897916,0
+                -56.2482134807653,-23.83127219794,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.25">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">7304556.00000000000</SimpleData>
+            <SimpleData name="cedula">7304556</SimpleData>
+            <SimpleData name="N">110.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LUIS PIRIS TAPARI</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[KA'AGUY PYAHU]]></SimpleData>
+            <SimpleData name="Teléfono">0984488517</SimpleData>
+            <SimpleData name="Vivienda_L">-23.82646710000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.25412120000</SimpleData>
+            <SimpleData name="Parcela_La">-23.83308402000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.24314641000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">110</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2426417002136,-23.833035000281,0
+                -56.2425826002957,-23.8330908000883,0
+                -56.2425964998402,-23.833086000169,0
+                -56.2425803998639,-23.8330991004749,0
+                -56.2425471997304,-23.8331293000295,0
+                -56.2425354995072,-23.8331549004923,0
+                -56.2425643002987,-23.8332085003243,0
+                -56.2426145995678,-23.8332608004203,0
+                -56.2426362000264,-23.8332908005034,0
+                -56.2426587995123,-23.8333542002202,0
+                -56.2426634,-23.833413299899,0
+                -56.2426672003145,-23.833435699741,0
+                -56.2426992002311,-23.8334930003021,0
+                -56.2427271997496,-23.8335649003147,0
+                -56.2427471996415,-23.8335923997011,0
+                -56.2427834000164,-23.8336080998556,0
+                -56.2428208002693,-23.833638000507,0
+                -56.2428410001128,-23.833645100401,0
+                -56.2429021000351,-23.8336553004539,0
+                -56.2429661001369,-23.8336400003746,0
+                -56.24299300035,-23.8336239002755,0
+                -56.2430481003293,-23.8335960002336,0
+                -56.2431037001196,-23.8335531999095,0
+                -56.2431294999933,-23.8335323002237,0
+                -56.2431851997453,-23.8334880001528,0
+                -56.2432496996442,-23.83344119987,0
+                -56.2432745003411,-23.8334226002065,0
+                -56.243320699929,-23.8333762004803,0
+                -56.243366100302,-23.8333369004447,0
+                -56.2433881003865,-23.8333126004982,0
+                -56.2434539995998,-23.8332759001987,0
+                -56.243505600097,-23.8332319005198,0
+                -56.2435298003975,-23.8332087999552,0
+                -56.2435803001549,-23.8331538002543,0
+                -56.2436252001171,-23.8330985002914,0
+                -56.2436514003704,-23.8330771003017,0
+                -56.2436960003926,-23.833029999856,0
+                -56.243738299966,-23.8329795002247,0
+                -56.2437641003453,-23.8329472996521,0
+                -56.2437881004684,-23.8328907997136,0
+                -56.2437499999445,-23.8328357003277,0
+                -56.2437350996476,-23.8328159998881,0
+                -56.2436612000148,-23.8327656002776,0
+                -56.2436128998836,-23.8327190004547,0
+                -56.2435867999072,-23.8326918000042,0
+                -56.2435346001299,-23.832643299665,0
+                -56.2434765997059,-23.832606800494,0
+                -56.2434421996119,-23.8325907001932,0
+                -56.2434029003337,-23.8325644004412,0
+                -56.2433537000677,-23.8325337004831,0
+                -56.2433318996761,-23.8325214003325,0
+                -56.243277300064,-23.8325217004022,0
+                -56.2432521999441,-23.8325366000179,0
+                -56.2431953997492,-23.8325806002825,0
+                -56.2431410004591,-23.8326302997334,0
+                -56.2431144000107,-23.8326584002828,0
+                -56.2430593000037,-23.8327126004958,0
+                -56.2430120999357,-23.8327531000832,0
+                -56.2429850997084,-23.8327730996959,0
+                -56.2429367997976,-23.8328236003546,0
+                -56.2428766000255,-23.8328634001987,0
+                -56.2428463002671,-23.8328850002974,0
+                -56.2427920996375,-23.8329324001562,0
+                -56.2427256003025,-23.8329759000899,0
+                -56.2426963997376,-23.8329947002347,0
+                -56.2426417002136,-23.833035000281,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.26">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">4238257.00000000000</SimpleData>
+            <SimpleData name="cedula">4238257</SimpleData>
+            <SimpleData name="N">116.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MIRIAN MENDOZA ACOSTA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">NARANJITO-RIO VERDE</SimpleData>
+            <SimpleData name="Teléfono">0986419496</SimpleData>
+            <SimpleData name="Vivienda_L">-23.79593020000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.24261060000</SimpleData>
+            <SimpleData name="Parcela_La">-23.79519607000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.24062040000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">116</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2404607646025,-23.7953966464276,0
+                -56.2404593996476,-23.7953958999896,0
+                -56.2403746996389,-23.7953764996506,0
+                -56.2403283999212,-23.7953801997503,0
+                -56.2402879003335,-23.795360599665,0
+                -56.2401955999141,-23.7953418997254,0
+                -56.24013930022,-23.7953042002806,0
+                -56.2401000000941,-23.7952835998893,0
+                -56.2400637002475,-23.7952682997828,0
+                -56.240026699534,-23.7952687001356,0
+                -56.2399766002192,-23.7953295999713,0
+                -56.2399753003599,-23.7953989998874,0
+                -56.2399635003912,-23.7954492002733,0
+                -56.2399590995932,-23.7954949996838,0
+                -56.2399183001414,-23.795607099772,0
+                -56.2398810003482,-23.7957003998402,0
+                -56.2399607004422,-23.795751000314,0
+                -56.2400905001861,-23.7957422002096,0
+                -56.2401387997112,-23.7957252998447,0
+                -56.2401928998239,-23.7956884004927,0
+                -56.2402449004026,-23.7956736001897,0
+                -56.2403124004076,-23.795648100105,0
+                -56.2404214004338,-23.7956620997392,0
+                -56.2405566003045,-23.7957323999827,0
+                -56.2407368004082,-23.7958144002782,0
+                -56.2409665996106,-23.7958400002122,0
+                -56.2409299997381,-23.7957609004676,0
+                -56.2409685999918,-23.7955966999881,0
+                -56.2409629001818,-23.7954472999991,0
+                -56.2409687997112,-23.795391999948,0
+                -56.2410426995139,-23.795099800079,0
+                -56.2410229999308,-23.7950310998069,0
+                -56.2410242003429,-23.7949625005157,0
+                -56.241035400235,-23.7949089001533,0
+                -56.2410437997843,-23.7948612001652,0
+                -56.2410438003614,-23.794807700073,0
+                -56.2410379998253,-23.7947488001258,0
+                -56.2410255000236,-23.794703600373,0
+                -56.2410220999406,-23.7946850003296,0
+                -56.2410233000405,-23.7945786003444,0
+                -56.2409059998719,-23.7944485001418,0
+                -56.2408546001832,-23.7944436003487,0
+                -56.2407668004201,-23.7944400000021,0
+                -56.2406044004171,-23.7944100998821,0
+                -56.2404864000806,-23.7945087997296,0
+                -56.2404895000035,-23.794605199872,0
+                -56.2404965001198,-23.7946712997198,0
+                -56.2404921996517,-23.7947247000679,0
+                -56.2404875000777,-23.7947858000293,0
+                -56.2404875995507,-23.7948694999714,0
+                -56.2404770998269,-23.7949377003348,0
+                -56.2404736004512,-23.7950110002903,0
+                -56.2404755000903,-23.7950789997499,0
+                -56.2404633998245,-23.7951451004238,0
+                -56.2404716002699,-23.7952118998331,0
+                -56.24046060004,-23.7952973000556,0
+                -56.2404607805677,-23.7953871457565,0
+                -56.2404607646025,-23.7953966464276,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+          <innerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2404607646025,-23.7953966464276,0
+                -56.2404607998279,-23.7953966655681,0
+                -56.2404608004259,-23.7953969004028,0
+                -56.2404607646025,-23.7953966464276,0
+              </coordinates>
+            </LinearRing>
+          </innerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.27">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">7360653.00000000000</SimpleData>
+            <SimpleData name="cedula">7360653</SimpleData>
+            <SimpleData name="N">114.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">GERONIMA MARTINEZ FERNANDEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">NARANJITO-RIO VERDE</SimpleData>
+            <SimpleData name="Teléfono">ND</SimpleData>
+            <SimpleData name="Vivienda_L">-23.79582970000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.24265760000</SimpleData>
+            <SimpleData name="Parcela_La">-23.80158561000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.25589528000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">114</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2554051996186,-23.8013743998548,0
+                -56.2557346001454,-23.8022987997933,0
+                -56.2563945000994,-23.8017531998165,0
+                -56.2560524001388,-23.8008946004029,0
+                -56.2554051996186,-23.8013743998548,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.28">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">4436754.00000000000</SimpleData>
+            <SimpleData name="cedula">4436754</SimpleData>
+            <SimpleData name="N">103.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LUCIO TORRES BENITEZ</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[BLANCA'I]]></SimpleData>
+            <SimpleData name="Teléfono">0986712011</SimpleData>
+            <SimpleData name="Vivienda_L">-23.78499790000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.25981850000</SimpleData>
+            <SimpleData name="Parcela_La">-23.78670546000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.25952940000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">103</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2588882000653,-23.7864656997277,0
+                -56.2591596496175,-23.7871951917242,0
+                -56.2591676615501,-23.7871945283881,0
+                -56.2592180468964,-23.7871852956025,0
+                -56.2601720998267,-23.7869012997322,0
+                -56.2599357000265,-23.7862449002104,0
+                -56.2588882000653,-23.7864656997277,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.29">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">1529240.00000000000</SimpleData>
+            <SimpleData name="cedula">1529240</SimpleData>
+            <SimpleData name="N">106.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ELVA PIRIS TAPARI</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">ISLA POR?</SimpleData>
+            <SimpleData name="Teléfono">0983015403</SimpleData>
+            <SimpleData name="Vivienda_L">-23.81996890000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.24077050000</SimpleData>
+            <SimpleData name="Parcela_La">-23.82490152000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.24202441000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">106</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2413838458579,-23.8250930245148,0
+                -56.2414046458716,-23.8251579248259,0
+                -56.2414078465678,-23.8251942246535,0
+                -56.2414195465239,-23.8252540250004,0
+                -56.2414652461566,-23.82528072432,0
+                -56.2415009460008,-23.8252745243009,0
+                -56.241578246001,-23.8252711247055,0
+                -56.2416535464869,-23.8252629246862,0
+                -56.2416914459392,-23.825261724695,0
+                -56.241768246647,-23.8252442245667,0
+                -56.2418452467594,-23.8252331245218,0
+                -56.2418804464395,-23.8252268244095,0
+                -56.2419475464412,-23.8252055246142,0
+                -56.2420215466823,-23.8251769247642,0
+                -56.2420601465128,-23.8251660250931,0
+                -56.2421385460204,-23.8251550248089,0
+                -56.2422179460878,-23.8251313250507,0
+                -56.2422573460059,-23.8251292245826,0
+                -56.2423386463089,-23.8251301245093,0
+                -56.2424238467953,-23.8251135242687,0
+                -56.2424634459704,-23.8251087250746,0
+                -56.242536346304,-23.8251038248467,0
+                -56.2426181465375,-23.825095724929,0
+                -56.2426568465484,-23.8250792248817,0
+                -56.2427299465775,-23.8250700245241,0
+                -56.242751145846,-23.8250444245975,0
+                -56.2427463460591,-23.8250085242767,0
+                -56.2427206467473,-23.8249337245244,0
+                -56.2426894467867,-23.8248558250762,0
+                -56.2426791464003,-23.8248151243439,0
+                -56.242650946124,-23.8247424248699,0
+                -56.2426088464059,-23.8246853248496,0
+                -56.2425864459552,-23.8246550245806,0
+                -56.2425310462707,-23.8246063248562,0
+                -56.2425165464806,-23.8245501245105,0
+                -56.2425179462094,-23.824548824463,0
+                -56.2424929464261,-23.8245049246345,0
+                -56.2424149461248,-23.8245250249621,0
+                -56.2423793464184,-23.8245282243707,0
+                -56.2422971467412,-23.8245316246846,0
+                -56.2422259464808,-23.824542225102,0
+                -56.2421849459533,-23.8245481246689,0
+                -56.2421031460501,-23.8245611251059,0
+                -56.2420254465798,-23.8245703242365,0
+                -56.2419934465472,-23.8245790245542,0
+                -56.2419204462074,-23.824606424453,0
+                -56.2418356464889,-23.8246269245856,0
+                -56.2417971460574,-23.8246415250859,0
+                -56.2417293466792,-23.8246526243029,0
+                -56.2416594461357,-23.8246698250805,0
+                -56.2416286458886,-23.8246920249671,0
+                -56.2415624460669,-23.8247240247013,0
+                -56.241495146215,-23.824758624714,0
+                -56.2414562466009,-23.8247667246704,0
+                -56.2413838463395,-23.8247893249709,0
+                -56.2413259459265,-23.8248241247003,0
+                -56.2413296462826,-23.8248572242573,0
+                -56.241344146154,-23.8249285243284,0
+                -56.2413525461043,-23.8249993247204,0
+                -56.2413633465944,-23.825032125031,0
+                -56.2413838458579,-23.8250930245148,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.30">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">6820780.00000000000</SimpleData>
+            <SimpleData name="cedula">6820780</SimpleData>
+            <SimpleData name="N">108.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">JORGE GARCETE GAUTO</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[KA'AGUY PYAHU]]></SimpleData>
+            <SimpleData name="Teléfono">0986789693</SimpleData>
+            <SimpleData name="Vivienda_L">-23.82665440000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.25412420000</SimpleData>
+            <SimpleData name="Parcela_La">-23.82765273000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.25337988000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">108</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2533340239165,-23.8282149952002,0
+                -56.2533690241997,-23.8282682943778,0
+                -56.2533707413776,-23.8282806512035,0
+                -56.2533802373887,-23.8282877150351,0
+                -56.2533857417367,-23.8282923028382,0
+                -56.2533901093393,-23.8282954824709,0
+                -56.2533941882106,-23.8282993615859,0
+                -56.2534012192718,-23.8283037815622,0
+                -56.2534172922847,-23.8283112285877,0
+                -56.2534588239502,-23.8283064946488,0
+                -56.2535442238819,-23.8282997946085,0
+                -56.2535825235521,-23.8283018948325,0
+                -56.2536495237579,-23.8282756950367,0
+                -56.2537505489394,-23.8282651208484,0
+                -56.2537958235455,-23.8282575950908,0
+                -56.2538009686081,-23.8282527336992,0
+                -56.253815835758,-23.828254208327,0
+                -56.2538208237668,-23.8282259949182,0
+                -56.2538095242237,-23.828171194742,0
+                -56.2537935242805,-23.8281241944024,0
+                -56.2537819236541,-23.828090794924,0
+                -56.2537646238549,-23.8280176949263,0
+                -56.25374932415,-23.8279486951878,0
+                -56.253731623527,-23.8279176948738,0
+                -56.2537125233908,-23.8278484951915,0
+                -56.2537060237908,-23.8277818944899,0
+                -56.2536994235449,-23.8277503951518,0
+                -56.2536828240693,-23.8276830952528,0
+                -56.2536628235305,-23.8276176945675,0
+                -56.253654423812,-23.8275883948324,0
+                -56.2536427233704,-23.8275298950123,0
+                -56.2536330236611,-23.8274492946122,0
+                -56.2536176242348,-23.8274143945826,0
+                -56.2535971235545,-23.8273404950913,0
+                -56.2535805235526,-23.8272636944468,0
+                -56.2535782239332,-23.827228894869,0
+                -56.2535565236776,-23.8271523946783,0
+                -56.2535342241624,-23.8270817948792,0
+                -56.2535208238534,-23.8270461946063,0
+                -56.2535038241642,-23.8269846948862,0
+                -56.2534767237102,-23.8269423951908,0
+                -56.2534781927865,-23.8269341091483,0
+                -56.2534751474201,-23.826933042177,0
+                -56.2534693235908,-23.8269341944546,0
+                -56.2534305236825,-23.8269500952163,0
+                -56.2533595235226,-23.8270036948203,0
+                -56.2532973237063,-23.8270374946776,0
+                -56.2532645242796,-23.827058595263,0
+                -56.2531865237288,-23.8271054943781,0
+                -56.2531146240003,-23.8271434949061,0
+                -56.2530880236066,-23.8271628949595,0
+                -56.2530381241953,-23.8271835947211,0
+                -56.2529965240768,-23.8272282946919,0
+                -56.2529801243005,-23.8272547945085,0
+                -56.2529429241505,-23.8273096948146,0
+                -56.252928923364,-23.8273686951503,0
+                -56.2529281242025,-23.8274070952147,0
+                -56.2529368235733,-23.827479194429,0
+                -56.2529797242895,-23.8275605952116,0
+                -56.2529884234029,-23.8275999950769,0
+                -56.2530203237299,-23.8276707950098,0
+                -56.2530596234744,-23.8277380947715,0
+                -56.2530814235713,-23.8277665951022,0
+                -56.2531102241289,-23.8278322949992,0
+                -56.2531305241205,-23.8278955945577,0
+                -56.2531440243043,-23.8279320949283,0
+                -56.253186323862,-23.8279888950753,0
+                -56.2532315240028,-23.828045994672,0
+                -56.253246223402,-23.8280693945515,0
+                -56.2532830235588,-23.8281313948344,0
+                -56.2533178237835,-23.8281933944539,0
+                -56.2533340239165,-23.8282149952002,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.31">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">6821465.00000000000</SimpleData>
+            <SimpleData name="cedula">6821465</SimpleData>
+            <SimpleData name="N">112.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">RUMILDA VERA MARTINEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">SI</SimpleData>
+            <SimpleData name="Titular_se">SADY DOMINGUEZ VERA</SimpleData>
+            <SimpleData name="Cédula_Ti">6777046</SimpleData>
+            <SimpleData name="Situación">se mud? a otra comunidad</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[KA'AGUY PYAHU]]></SimpleData>
+            <SimpleData name="Teléfono">984144683</SimpleData>
+            <SimpleData name="Vivienda_L">-23.82660290000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.25401530000</SimpleData>
+            <SimpleData name="Parcela_La">-23.83096324000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.24498333000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">112</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.2448531693283,-23.8314158305441,0
+                  -56.2449098000389,-23.8313592003314,0
+                  -56.2450954998324,-23.831184000319,0
+                  -56.2451531003948,-23.8311478998784,0
+                  -56.2452051000929,-23.8311116997345,0
+                  -56.2452336994998,-23.8310828002309,0
+                  -56.2452588004355,-23.831052400545,0
+                  -56.2452975999093,-23.8309986001943,0
+                  -56.2453137999891,-23.8309658998339,0
+                  -56.2453388003502,-23.8308928001686,0
+                  -56.2453316996991,-23.8308037003886,0
+                  -56.2453288995573,-23.830681499674,0
+                  -56.245301299897,-23.8305270996482,0
+                  -56.2453018997458,-23.8304408997914,0
+                  -56.2450615998202,-23.8305736001814,0
+                  -56.244867500364,-23.8307537004181,0
+                  -56.2448186999409,-23.8307955999336,0
+                  -56.2447934999243,-23.8308408999813,0
+                  -56.2447599996945,-23.8309026002247,0
+                  -56.2447221997243,-23.8309601003067,0
+                  -56.244696300372,-23.8309877999527,0
+                  -56.24462820004,-23.8310405000808,0
+                  -56.2445758002129,-23.8310943997938,0
+                  -56.2445510999348,-23.8311173002905,0
+                  -56.2445214999087,-23.831154500545,0
+                  -56.2445117998547,-23.8311777997018,0
+                  -56.2445156000928,-23.8311889005349,0
+                  -56.2445418001115,-23.8312278004113,0
+                  -56.2445926995132,-23.8312738003191,0
+                  -56.2446336999931,-23.8312942003044,0
+                  -56.2447122001918,-23.8313238999787,0
+                  -56.2447733997435,-23.831378799806,0
+                  -56.2448132998375,-23.8314012003502,0
+                  -56.2448531693283,-23.8314158305441,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.2519434003331,-23.8269700004179,0
+                  -56.2518864996735,-23.826945300058,0
+                  -56.2518566999189,-23.8269177000673,0
+                  -56.2518036003659,-23.8268733997832,0
+                  -56.2517574997467,-23.8268213000236,0
+                  -56.2517379999414,-23.826798200052,0
+                  -56.2516738003105,-23.8267994003914,0
+                  -56.251561600164,-23.8268223000117,0
+                  -56.2514830999264,-23.8268430997635,0
+                  -56.2514224000991,-23.8268601003553,0
+                  -56.251418100354,-23.8268665003037,0
+                  -56.2514467000909,-23.8268918997822,0
+                  -56.2514921999242,-23.8269989002463,0
+                  -56.2515305001308,-23.8270621004362,0
+                  -56.2515671997861,-23.8271416000657,0
+                  -56.2515892003208,-23.8271611003143,0
+                  -56.2516190003427,-23.8272132998267,0
+                  -56.2516663995436,-23.8272398002993,0
+                  -56.2517340995847,-23.8272653001024,0
+                  -56.2517902004696,-23.8272730002796,0
+                  -56.2518865001953,-23.8272694998796,0
+                  -56.2519508996307,-23.8272524998994,0
+                  -56.2520465002572,-23.8272114997871,0
+                  -56.2521218000412,-23.8271839996657,0
+                  -56.2521509000736,-23.8271558996702,0
+                  -56.252223199826,-23.8271386001024,0
+                  -56.2523022999001,-23.827129299679,0
+                  -56.2523349003862,-23.8271193004343,0
+                  -56.2523499000348,-23.8270488000767,0
+                  -56.2523315003348,-23.8269670004191,0
+                  -56.2522962000078,-23.8269052004738,0
+                  -56.2522656004161,-23.8268347002436,0
+                  -56.2522282997295,-23.8267699000958,0
+                  -56.252212400304,-23.8267293001401,0
+                  -56.2521850004211,-23.8266607003863,0
+                  -56.2521162004324,-23.8266453997675,0
+                  -56.2520798995218,-23.8266549005158,0
+                  -56.2520389001535,-23.8267085005357,0
+                  -56.2520638003661,-23.8267763999505,0
+                  -56.2520747999648,-23.8268123002988,0
+                  -56.2520964999606,-23.8268719000601,0
+                  -56.2520392003129,-23.8269280998813,0
+                  -56.2520036999419,-23.8269453999863,0
+                  -56.2519434003331,-23.8269700004179,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.32">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">1401695.00000000000</SimpleData>
+            <SimpleData name="cedula">1401695</SimpleData>
+            <SimpleData name="N">120.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">RAMONA BEATRIZ PEREIRA DE ESPINOLA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[KORORO'I]]></SimpleData>
+            <SimpleData name="Teléfono">0975960523</SimpleData>
+            <SimpleData name="Vivienda_L">-23.79171650000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.48139920000</SimpleData>
+            <SimpleData name="Parcela_La">-23.79142051000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.48347545000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">120</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4825531569407,-23.7914175895296,0
+                -56.4826370934647,-23.7917805531891,0
+                -56.4844124307996,-23.7914416792897,0
+                -56.4843431719232,-23.7910702463003,0
+                -56.4825531569407,-23.7914175895296,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.33">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">6081990.00000000000</SimpleData>
+            <SimpleData name="cedula">6081990</SimpleData>
+            <SimpleData name="N">94.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ESTELA NU?EZ COLMAN</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">ASENT. AGUERITO</SimpleData>
+            <SimpleData name="Teléfono">0975598090</SimpleData>
+            <SimpleData name="Vivienda_L">-23.72854060000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.03800070000</SimpleData>
+            <SimpleData name="Parcela_La">-23.70980529000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.06114656000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">94</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.0605632999054,-23.7094790000175,0
+                -56.060615399613,-23.7101531997792,0
+                -56.0618103999528,-23.7101775001392,0
+                -56.0618188999157,-23.7101426004045,0
+                -56.0618087995601,-23.7100422003482,0
+                -56.0616589999787,-23.7097423004977,0
+                -56.0616029002925,-23.7097179004741,0
+                -56.0614147001115,-23.7097985004586,0
+                -56.0613306995984,-23.7097721997007,0
+                -56.0616306997272,-23.70966020049,0
+                -56.0616731996675,-23.7095894998512,0
+                -56.0616689001213,-23.7095750003139,0
+                -56.0615494999536,-23.7094215999145,0
+                -56.0612950003835,-23.7094112999016,0
+                -56.060622999641,-23.709425800253,0
+                -56.0605632999054,-23.7094790000175,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_SANTA_ROSA_DEL_AGUARAY.34">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SANTA_ROSA_DEL_AGUARAY.schema">
+            <SimpleData name="Cédula">5886068.00000000000</SimpleData>
+            <SimpleData name="cedula">5886068</SimpleData>
+            <SimpleData name="N">100.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">AMAMBAY YSAPY ALEGRE DIAZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SANTA ROSA DEL AGUARAY</SimpleData>
+            <SimpleData name="Localidad">ASENT. JAGUARETE FOREST/MARIA AUXILIADORA</SimpleData>
+            <SimpleData name="Teléfono">0983045855</SimpleData>
+            <SimpleData name="Vivienda_L">-23.79258840000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.09052590000</SimpleData>
+            <SimpleData name="Parcela_La">-23.78284356000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.09820372000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="OBJECTID_1">100</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.0984787003545,-23.7824124003463,0
+                -56.0981071598899,-23.7832748735205,0
+                -56.0983674995434,-23.7824617003127,0
+                -56.0983278000121,-23.7824547000299,0
+                -56.0976153004683,-23.7824111999336,0
+                -56.0976023999281,-23.7824768000356,0
+                -56.0976542001241,-23.7826659004835,0
+                -56.0976897998335,-23.7833366000507,0
+                -56.0980858796905,-23.7833242722646,0
+                -56.0980838000423,-23.7833291002466,0
+                -56.0985419999723,-23.7833097001421,0
+                -56.0987054995415,-23.7828817001675,0
+                -56.0989533995228,-23.7826009997431,0
+                -56.0989463997553,-23.7825270996639,0
+                -56.098722399655,-23.7824114000369,0
+                -56.0985680003084,-23.782354800461,0
+                -56.0984981002682,-23.7824025000943,0
+                -56.0984787003545,-23.7824124003463,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>
