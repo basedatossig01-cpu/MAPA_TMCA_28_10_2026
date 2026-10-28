@@ -536,9 +536,9 @@
   <div class="botones">
     <button id="btnViviendas" class="boton btn-viviendas boton-activo">🏠 Viviendas</button>
     <button id="btnParcelas" class="boton btn-parcelas boton-activo">○ Plantación</button>
-    <button id="btnKML" class="boton btn-kml boton-activo">□ Polígono Mant.</button>
-    <button id="btnKMLP" class="boton btn-kmlp boton-activo">📍 Ubicación Mant.</button>
-    <button id="btnCocinas" class="boton btn-cocinas boton-activo">🔥 Cocinas</button>
+    <button id="btnKML" class="boton btn-kml boton-activo">□ Polígonos TMCA</button>
+    <button id="btnKMLP" class="boton btn-kmlp boton-activo">📍 Ubicaciones TMCA</button>
+    <button style="display:none" id="btnCocinas" class="boton btn-cocinas boton-activo">🔥 Cocinas</button>
   </div>
 
   <button id="btnPrepararOffline" class="offline-preparar-btn" type="button" onclick="activarSelectorOffline()">📥 Preparar zona sin conexión</button>
@@ -597,8 +597,8 @@
   const archivoCSV = params.get("csv") || "";
   const archivoKML = params.get("kml") || "";
   const archivoKMLP = params.get("kmlp") || "";
-  const archivoCocinas = params.get("cocinas") || "";
-  let archivoParcelasEstablecidas = params.get("parcelas") || "";
+  const archivoCocinas = ""; // TMCA no usa cocinas
+  let archivoParcelasEstablecidas = ""; // TMCA usa el KML de polígonos
 
   // API Google Sheets - Visitas de campo
   const API_VISITAS_URL = "https://script.google.com/macros/s/AKfycbwe9jLeVxPx_RTRwEt_BHFIxutX_6vjd63F_t7JI0UojvX6-GkafPBwvKjUo4mg2hA5iw/exec";
@@ -681,7 +681,7 @@
   function actualizarTituloMapa(valorDistrito) {
     const distrito = repararTextoDistrito(valorDistrito);
     if (!distrito) return;
-    document.getElementById("tituloMapa").textContent = `Mapa de campo - ${distrito} 🗺️`;
+    document.getElementById("tituloMapa").textContent = `Mapa TMCA - ${distrito} 🗺️`;
   }
 
   const MAX_ZOOM_ESRI = 17;
@@ -1422,44 +1422,16 @@
     document.body.removeChild(temp);
   }
 
-  // Popup TMCA: se aceptan variantes de encabezados para los reportes CSV.
-  function campoTMCA(row, nombres) {
-    const keys = Object.keys(row || {});
-    const norm = v => String(v || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]/g, "");
-    for (const nombre of nombres) {
-      const key = keys.find(k => norm(k) === norm(nombre));
-      if (key && row[key] != null && String(row[key]).trim() !== "") return String(row[key]).trim();
-    }
-    return "Sin datos";
-  }
-  function escaparTMCA(valor) {
-    return String(valor).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  // TMCA: mismos nueve campos en viviendas, puntos y KML, más ruta/visitas.
+  const CAMPOS_TMCA = ["Nombres y Apellidos", "Cédula", "Modelo", "Departamento", "Distrito", "Localidad", "Teléfono", "Etapa de implementación FAO", "Cantidad de parcelas"];
+  function crearFichaTMCA(row, tipo, lat, lon, botonVisitado = "") {
+    const nombre = limpiarValor(get(row, "Nombres y Apellidos"));
+    const campos = CAMPOS_TMCA.slice(1).map(c => `<div><b>${c}:</b> ${limpiarValor(get(row,c))}</div>`).join("");
+    return `<div class="popup-card"><span class="popup-badge badge-parcela">${tipo}</span><h3>${nombre}</h3><div class="popup-grid">${campos}</div>${lat != null && lon != null ? crearBloqueDistancia(lat,lon)+crearBotonRuta(lat,lon) : ""}${botonVisitado}</div>`;
   }
   function crearPopupPrincipal(row, tipo, lat, lon) {
-    const campos = [
-      ["Nombres y Apellidos", ["Nombres y Apellidos"]],
-      ["Cédula", ["Cédula"]],
-      ["Modelo", ["Modelo"]],
-      ["Departamento", ["Departamento"]],
-      ["Distrito", ["Distrito"]],
-      ["Localidad", ["Localidad"]],
-      ["Teléfono", ["Teléfono"]],
-      ["Etapa de implementación FAO", ["Etapa de implementación FAO"]],
-      ["Cantidad de parcelas", ["Cantidad de parcelas"]]
-    ];
-    const filas = campos.map(([titulo, alias]) => `<div><b>${titulo}:</b> ${escaparTMCA(campoTMCA(row, alias))}</div>`).join("");
-    const nombre = campoTMCA(row, ["Nombres y Apellidos", "Titular_se", "Nombre"]);
-    const cedula = campoTMCA(row, ["Cédula", "Ced_std", "Cedula"]);
-    const visitadoId = tipo === "Plantación" ? crearIdVisitado("plantacion", nombre, cedula, lat, lon, archivoCSV) : "";
-    const botonVisitado = tipo === "Plantación" ? crearBotonVisitado(visitadoId) : "";
-    return `<div class="popup-card">
-      <span class="popup-badge ${tipo === "Vivienda" ? "badge-vivienda" : "badge-parcela"}">${escaparTMCA(tipo)} · TMCA</span>
-      <h3>${escaparTMCA(nombre)}</h3>
-      <div class="popup-grid">${filas}</div>
-      ${crearBloqueDistancia(lat, lon)}
-      ${crearBotonRuta(lat, lon)}
-      ${botonVisitado}
-    </div>`;
+    const id = tipo === "Plantación" ? crearIdVisitado("plantacion", limpiarValor(get(row,"Nombres y Apellidos")), limpiarValor(get(row,"Cédula")),lat,lon,archivoCSV) : "";
+    return crearFichaTMCA(row, tipo === "Plantación" ? "Punto de parcela TMCA" : tipo,lat,lon,id ? crearBotonVisitado(id) : "");
   }
 
   function normalizarClave(texto) {
@@ -1598,75 +1570,40 @@
     `;
   }
 
-  function crearPopupMantenimiento(layer, tipo, archivo, latlng) {
+  function getTMCAKML(props, nombre) {
+    const buscado = normalizarClave(nombre);
+    const key = Object.keys(props || {}).find(k => normalizarClave(k) === buscado);
+    if (key !== undefined) return props[key];
+    const alias = {
+      "nombresyapellidos": ["Nombres_y_", "Nombres_y", "Nombre", "name"],
+      "cedula": ["cedula", "Cédula", "Cedula"],
+      "modelo": ["Modelo_imp", "MODELO_IMP"],
+      "departamento": ["Departamen"],
+      "etapadeimplementacionfao": ["Etapa_FAO", "Etapa_impl", "Etapa_implementacion_FAO"],
+      "cantidaddeparcelas": ["Cantidad_de_parcelas", "Cantidad_d", "Cant_parcelas"]
+    };
+    const k = buscado.replace(/[^a-z0-9]/g, "");
+    for (const a of alias[k] || []) {
+      const encontrado = Object.keys(props||{}).find(x=>normalizarClave(x) === normalizarClave(a));
+      if (encontrado !== undefined) return props[encontrado];
+    }
+    return "-";
+  }
+  const registrosTMCA = new Map();
+  function filaTMCAKML(layer) {
     const props = layer.feature && layer.feature.properties ? layer.feature.properties : {};
-
     const cedula = getCedulaKML(props);
-    const nombres = getPropFlexible(props, ["Nombres_y_", "Nombres_y", "NOMBRES_Y_", "Nombre", "name"], "nombres");
-    const sexo = getPropFlexible(props, ["Sexo", "SEXO"], "sexo");
-    const comunidad = getPropFlexible(props, ["Comunidad", "COMUNIDAD"], "comunidad");
-    const modelo = getPropFlexible(props, ["Modelo_imp", "MODELO_IMP", "modelo_imp"], "modelo");
-    const departamento = getPropFlexible(props, ["Departamen", "Departamento", "DEPARTAMEN"], "depart");
-    const distrito = getPropFlexible(props, ["Distrito", "DISTRITO"], "distrito");
-    const localidad = getPropFlexible(props, ["Localidad", "LOCALIDAD"], "localidad");
-    const telefono = getPropFlexible(props, ["Teléfono", "Telefono", "TELEFONO"], "tel");
-    const etapaFAO = getPropFlexible(
-      props,
-      [
-        "Etapa de implementación FAO",
-        "Etapa de implementacion FAO",
-        "Etapa_FAO",
-        "Etapa FAO",
-        "Etapa_impl",
-        "Etapa_implementacion_FAO"
-      ],
-      "etapa"
-    );
-    const estadoFAO = getPropFlexible(
-      props,
-      [
-        "Estado FAO",
-        "Estado_FAO",
-        "Estado"
-      ],
-      "estado"
-    );
-    const cocinaImplementada = getPropFlexible(
-      props,
-      [
-        "Monitorear Cocinas Eficientes",
-        "Monitorear"
-      ],
-      "monitorear"
-    );
-    const visitadoId = (tipo === "Ubicación Mantenimiento" && latlng) ? crearIdVisitado("ubicacion_mantenimiento", nombres, cedula, latlng.lat, latlng.lng, archivo) : "";
-    const botonVisitado = tipo === "Ubicación Mantenimiento" ? crearBotonVisitado(visitadoId) : "";
-
-    const badge = tipo === "Polígono Mantenimiento" ? "badge-poligono" : "badge-kmlp";
-
-    return `
-      <div class="popup-card">
-        <span class="popup-badge ${badge}">${tipo}</span>
-        <h3>${nombres}</h3>
-        <div class="popup-grid">
-          <div><b>Cédula:</b> ${cedula}</div>
-          <div><b>Nombres_y_:</b> ${nombres}</div>
-          <div><b>Sexo:</b> ${sexo}</div>
-          <div><b>Comunidad:</b> ${comunidad}</div>
-          <div><b>Modelo_imp:</b> ${modelo}</div>
-          <div><b>Departamen:</b> ${departamento}</div>
-          <div><b>Distrito:</b> ${distrito}</div>
-          <div><b>Localidad:</b> ${localidad}</div>
-          <div><b>Teléfono:</b> ${telefono}</div>
-          <div><b>Etapa de implementación FAO:</b> ${etapaFAO}</div>
-          <div><b>Estado FAO:</b> ${estadoFAO}</div>
-          <div><b>Monitorear Cocinas Eficientes:</b> ${cocinaImplementada}</div>
-        </div>
-        ${latlng ? crearBloqueDistancia(latlng.lat, latlng.lng) : ""}
-        ${latlng ? crearBotonRuta(latlng.lat, latlng.lng) : ""}
-        ${botonVisitado}
-      </div>
-    `;
+    const fila = registrosTMCA.get(cedula);
+    if (fila) return fila;
+    // Respaldo: el usuario une las mismas columnas al KML.
+    return Object.fromEntries(CAMPOS_TMCA.map(c=>[c,getTMCAKML(props,c)]));
+  }
+  function crearPopupMantenimiento(layer, tipo, archivo, latlng) {
+    const row = filaTMCAKML(layer);
+    const nombre = limpiarValor(get(row,"Nombres y Apellidos"));
+    const cedula = limpiarValor(get(row,"Cédula"));
+    const id = tipo === "Ubicación Mantenimiento" && latlng ? crearIdVisitado("ubicacion_mantenimiento",nombre,cedula,latlng.lat,latlng.lng,archivo) : "";
+    return crearFichaTMCA(row, tipo === "Ubicación Mantenimiento" ? "Ubicación TMCA" : "Polígono TMCA",latlng?.lat,latlng?.lng,id ? crearBotonVisitado(id) : "");
   }
 
   function crearPopupCocina(row, lat, lon) {
@@ -1816,22 +1753,6 @@
     });
   }
 
-  const tmcaPorCedula = new Map();
-  let tmcaCsvCargado = false;
-  function claveCedulaTMCA(v) {
-    return String(v == null ? "" : v).trim().replace(/\.0+$/, "").replace(/[^0-9a-zA-Z]/g, "").toLowerCase();
-  }
-  function actualizarPopupsKMLTMCA() {
-    if (!tmcaCsvCargado) return;
-    capaKML.eachLayer(layer => {
-      const props = layer.feature?.properties || {};
-      const cedula = claveCedulaTMCA(getCedulaKML(props));
-      const fila = tmcaPorCedula.get(cedula);
-      const centro = obtenerLatLngCentroLayer(layer);
-      if (fila && centro) bindPopupKMLArriba(layer, () => crearPopupPrincipal(fila, "Parcela", centro.lat, centro.lng));
-    });
-  }
-
   if (archivoCSV) {
     Papa.parse(urlDatosFresca(archivoCSV), {
       download: true,
@@ -1840,23 +1761,16 @@
       delimiter: "",
       complete: function(results) {
         const datos = results.data;
-        datos.forEach(row => {
-          const key = claveCedulaTMCA(get(row, "Cédula"));
-          if (key && !tmcaPorCedula.has(key)) tmcaPorCedula.set(key, row);
-        });
-        tmcaCsvCargado = true;
-        actualizarPopupsKMLTMCA();
 
         if (datos.length > 0) {
           actualizarTituloMapa(limpiarValor(get(datos[0], "Distrito")));
         }
 
-        if (!archivoParcelasEstablecidas && datos.length > 0) {
-          const loteDetectado = limpiarValor(get(datos[0], "Lote"));
-          archivoParcelasEstablecidas = obtenerNombreLoteParaKML(loteDetectado);
-        }
+
 
         datos.forEach(row => {
+          const ced = limpiarCedulaKML(get(row, "Cédula"));
+          if (ced && ced !== "-") registrosTMCA.set(ced,row);
           const latViv = convertirNumero(get(row, "Vivienda_Latitud"));
           const lonViv = convertirNumero(get(row, "Vivienda_Longitud"));
 
@@ -1865,11 +1779,14 @@
             totalViviendasGlobal++;
           }
 
-          // TMCA: solo se representa el punto de parcela cuando la cantidad está vacía.
-          const cantidadParcelas = String(get(row, "Cantidad de parcelas") ?? "").trim();
-          if (!cantidadParcelas) {
+          const etapa = normalizarTexto(get(row, "Etapa de implementación FAO"));
+
+          // Sin cantidad de parcelas: georreferenciar punto de parcela (independiente de la etapa).
+          const cantidad = String(get(row, "Cantidad de parcelas") ?? "").trim();
+          if (etapa === "plantacion" && (!cantidad || cantidad === "-" || cantidad.toLowerCase() === "nan")) {
             const latPar = convertirNumero(get(row, "Parcela_Latitud"));
             const lonPar = convertirNumero(get(row, "Parcela_Longitud"));
+
             if (latPar !== null && lonPar !== null) {
               agregarPuntoPrincipal(row, "Plantación", latPar, lonPar, iconoParcela, capaParcelas);
               totalParcelasGlobal++;
@@ -1877,6 +1794,8 @@
           }
         });
 
+        cargarKMLPoligono();
+        cargarKMLUbicacion();
         actualizarResumen();
         ajustarVistaGeneral();
         traerCapasDeVisitaAlFrente();
@@ -1914,7 +1833,8 @@
             });
           }
 
-          const nombrePoligono = getNombrePoligono(layer);
+          const filaKML = filaTMCAKML(layer);
+          const nombrePoligono = limpiarValor(get(filaKML,"Nombres y Apellidos"));
           const latlng = obtenerLatLngCentroLayer(layer);
           const props = layer.feature && layer.feature.properties ? layer.feature.properties : {};
           actualizarTituloMapa(getPropFlexible(props, ["Distrito", "DISTRITO"], "distrito"));
@@ -1928,13 +1848,7 @@
             className: "kml-label"
           });
 
-          const filaTMCA = tmcaPorCedula.get(claveCedulaTMCA(cedula));
-          if (filaTMCA && latlng) {
-            bindPopupKMLArriba(layer, () => crearPopupPrincipal(filaTMCA, "Parcela", latlng.lat, latlng.lng));
-          } else {
-            // Se actualiza cuando termine de cargarse el CSV, si aún está pendiente.
-            bindPopupKMLArriba(layer, () => crearPopupMantenimiento(layer, "Polígono Mantenimiento", archivoKML, latlng));
-          }
+          bindPopupKMLArriba(layer, () => crearPopupMantenimiento(layer, "Polígono Mantenimiento", archivoKML, latlng));
 
           if (latlng) {
             const visitadoPoligonoId = crearIdVisitado("poligono_mantenimiento", nombrePoligono, cedula, latlng.lat, latlng.lng, archivoKML);
@@ -1956,7 +1870,6 @@
           todosLosPuntos.addLayer(layer);
         });
 
-        actualizarPopupsKMLTMCA();
         actualizarResumen();
         ajustarVistaGeneral();
         actualizarEtiquetasKML();
@@ -1991,7 +1904,7 @@
     )
       .on('ready', function() {
         kmlLayer.eachLayer(function(layer) {
-          const nombre = getNombrePoligono(layer);
+          const nombre = limpiarValor(get(filaTMCAKML(layer),"Nombres y Apellidos"));
           const latlng = getLatLngLayer(layer);
 
           bindPopupKMLArriba(layer, () =>
@@ -2141,10 +2054,7 @@
           actualizarTituloMapa(limpiarValor(get(datos[0], "Distrito")));
         }
 
-        if (!archivoParcelasEstablecidas && datos.length > 0) {
-          const loteDetectado = limpiarValor(get(datos[0], "Lote"));
-          archivoParcelasEstablecidas = obtenerNombreLoteParaKML(loteDetectado);
-        }
+
 
         datos.forEach(row => {
           const lat = convertirNumero(getCampoFlexible(row, ["Latitud", "latitud", "LATITUD"], "lat"));
@@ -2192,8 +2102,7 @@
     });
   }
 
-  cargarKMLPoligono();
-  cargarKMLUbicacion();
+  if (!archivoCSV) { cargarKMLPoligono(); cargarKMLUbicacion(); }
   actualizarResumen();
 
   function ajustarVistaGeneral() {
